@@ -4,8 +4,72 @@ Virginia FMR (Fair Market Rents) datasets from hud.gov
 http://www.huduser.org/portal/datasets/fmr.html
 
 
-Partial Data:  
+2015 FAIR MARKET RENTS
+Revised Final Data for 1 Area
 
+[Effective January 12, 2015]
+
+    Federal Register Preamble (*.pdf, 187 KB)
+    County Level Data File (*.xls, 1.27 MB)
+
+Final Data
+
+[Effective October 1, 2014]
+
+    Federal Register Preamble (*.pdf, 145 KB)
+    HUD Comment Responses (*.pdf, 48 KB)
+    Schedule B – FMR Tables ( .pdf , 1.89 MB), ( .doc , 1.6 MB)
+    Schedule B addendum (.pdf, 948 KB)
+    Schedule D (*.pdf, 25 KB)
+    Comment Responses Forthcoming
+    County Level Data File (*.xls, 2.38 MB)
+    Small Area FMRs (*.xls, 98 KB)
+
+Proposed Data
+
+    Federal Register Preamble (*.pdf, 150 KB)
+    Schedule B – FMR Tables ( .pdf , 200 KB), ( .doc , 1.6 MB)
+    Schedule B addendum (.pdf, 107 KB), (.doc, 200 KB)
+    Schedule D (*.pdf, 22 KB)
+    County Level Data File (*.xls, 1,490 KB)
+    Schedule B Addendum SAFMRs (*.xls, 92 KB)
+    Link to comments on regulations.gov
+
+
+2014 FAIR MARKET RENTS
+Revised Final Data for 2 Areas
+
+[Effective April 18, 2014]
+
+    Federal Register Preamble (*.pdf, 250 KB)
+    County Level Data File (*.xls, 1,289 KB)
+
+
+Final Data
+
+The Federal Register Notice of the FY 2014 FMRs will be published on Thursday, October 3, 2013
+
+[Effective October 1, 2013]
+
+    Federal Register Preamble (*.pdf, 437 KB)
+    Schedule B – FMR Tables ( .pdf , 1.89 MB), ( .doc , 1.6 MB)
+    Schedule B addendum (.pdf, 948 KB)
+    Schedule D (*.pdf, 25 KB)
+    County Level Data File (*.xls, 2.38 MB)
+    Small Area FMRs (*.xls, 98 KB)
+
+
+Proposed Data
+
+    Federal Register Preamble (*.pdf, 156 KB)
+    Schedule B – FMR Tables ( .pdf , 238 KB), ( .doc , 1.55 MB)
+    Note: Proposed FY 2014 FMRs were revised as of 8/15/2013 for Carroll County, MS, Sioux County, NE, and De Baca County, NM.
+    Schedule B addendum (.pdf, 943 KB), (.doc, 51 KB)
+    Schedule D (*.pdf, 25 KB)
+    County Level Data File (*.xls, 2.88 MB)
+    Note: Proposed FY 2014 FMRs were revised as of 8/15/2013 for Carroll County, MS, Sioux County, NE, and De Baca County, NM.
+    Small Area FMRs (*.xls, 98 KB)
+    Link to comments on regulations.gov
 
 FMR HISTORY
 
@@ -39,3 +103,6 @@ NOTE: Periodically HUD, or an authorized contractor, performs telephone or mail 
     Note on Revised Area Survey Procedures (*.pdf)
     FMR Surveys Experiment Report (*.pdf)
     Mail Survey Questionnaire (*.pdf) 
+    
+Small Area FMRs
+http://www.huduser.org/portal/datasets/fmr/smallarea/index.html
