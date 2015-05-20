@@ -1,0 +1,208 @@
+﻿
+DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+24 CFR Part 888
+
+[Docket No. 4680-N-02]
+
+Fair Market Rents for the Housing Choice Voucher Program and Moderate Rehabilitation Single Room Occupancy Program--Fiscal Year 2002
+
+
+AGENCY:  Office of the Secretary, HUD.
+ACTION:  Notice of Final Fiscal Year (FY) 2002 Fair Market Rents (FMRs).
+SUMMARY:  Section 8(c)(1) of the United States Housing Act of 1937 requires the Secretary to publish FMRs annually to be effective on October 1 of each year.  FMRs are used for the Housing Choice Voucher program, the Moderate Rehabilitation Single Room Occupancy program, the project-based voucher program, and any other programs requiring their use. Today's notice provides final FY 2002 FMRs for all areas that reflect the estimated 40th and 50th percentile rent levels trended to April 1, 2002.
+EFFECTIVE DATE:  The FMRs published in this notice are effective on October 1, 2001.
+FOR FURTHER INFORMATION:  Gerald Benoit, Director, Real Estate and Housing Performance Division, Office of Public and Assisted Housing Delivery, is responsible for fair market rent implementation policies.  His telephone number is (202) 708-0477.  For technical information on the methodology used to develop fair market rents or a listing of all fair market rents, please call HUD USER at 1-800-245-2691 or access the information on the HUD Web site, http:\\www.huduser.org/datasets/fmr.html.  Further questions on the methodology may be addressed to Marie L. Lihn, Economic and Market Analysis Division, Office of Economic Affairs, telephone (202) 708-0590, Extension 5866 (e-mail: Marie L. Lihn@hud.gov).  Hearing- or speech-impaired persons may use the Telecommunications Devices for the Deaf (TTY) by contacting the Federal Information Relay Service at 1-800-877-8339.  (Other than the "800" TTY number, telephone numbers are not toll free.)
+SUPPLEMENTARY INFORMATION:  
+Section 8 of the United States Housing Act of 1937 (the Act) (42 U.S.C. 1437f) authorizes housing assistance to aid lower income families in renting decent, safe, and sanitary housing.  Housing assistance payments are limited by FMRs established by HUD for different areas.  In the voucher program, the FMR is used to determine the “payment standard” (the maximum monthly subsidy) for assisted families (see Section 982.503).  In general, the FMR for an area is the amount that would be needed to pay the gross rent (shelter rent plus utilities) of privately owned, decent, safe, and sanitary rental housing of a modest (non‑luxury) nature with suitable amenities.
+How HUD Sets FMRs
+	HUD Standard for Setting the FMR
+	FMRs are gross rent estimates that include both shelter rent paid by the tenant to the landlord and the cost of tenant-paid utilities, except telephone.  HUD sets FMRs to assure that a sufficient supply of rental housing is available to program participants.  To accomplish this objective, FMRs must be both high enough to permit a selection of units in neighborhoods and low enough to serve as many families as possible.  FMRs are set at a percentile within the rent distribution of standard quality rental housing units in each FMR area (see 24 CFR 888.113, as amended by interim rule published October 2, 2000 at 65 FR 58870, effective December 1, 2000).  FMRs are based on the distribution of rents for units that are occupied by recent movers – renter households who moved into their units within the past 15 months.  Rents for units less than two years old and public housing units are not included.  Rents for subsidized housing units are adjusted by adding back the amount of the subsidy.
+	HUD sets FMRs either at the 40th percentile rent or at the 50th percentile rent.  For most FMR areas, the FMR is set at the 40th percentile rent – that is, the rent for 40 percent of standard rental housing units is at or below this dollar amount.  For some FMR areas, the FMR is set at the 50th percentile rent – that is, the median rent – the rent for 50 percent of standard units is at or below this dollar amount.  
+	When HUD Sets FMRs at the 50th Percentile Rent
+On October 2, 2000  (65 FR 58870), HUD published an interim rule (effective December 1, 2000) that provides authority for HUD to set 50th percentile FMRS in metropolitan areas where a higher FMR (i.e., exceeding the 40th percentile FMR) is needed to promote residential choice, help families move closer to areas of job growth, and deconcentrate poverty.  The rule provides (§ 888.113(c)) that HUD will set FMRs at the 50th percentile rent for all unit sizes in each metropolitan FMR area that meets all of the following criteria:
+The FMR area contains at least 100 census tracts;
+ 70 percent or fewer of the census tracts with at least 10 two bedroom rental units are census tracts in which at least 30 percent of the two bedroom rental units have gross rents at or below the two bedroom FMR set at the 40th percentile rent; and 
+25 percent or more of the tenant-based rental program participants in the FMR area reside in the 5 percent of the census tracts within the FMR area that have the largest number of program participants.
+	On January 2, 2001 (66 FR 162), HUD first established 50th percentile FMRs for 39 fair market rent areas, based on the criteria specified in the interim rule.  
+	Schedule B of this Notice lists the FY 2002 FMRs for all areas of the United States including:
+the 39 FMR areas where the FMR is set at the 50th percentile rent, and
+FMR areas, where the FMR is set at the 40th percentile rent.
+	An asterisk in Schedule B identifies each of the 39 FMR areas for which HUD has set 50th percentile FMRs.  HUD has set 50th percentile FMRs for the following metropolitan FMR areas:  
+Albuquerque, NM
+Atlanta, GA
+Austin-San Marcos, TX 
+Baton Rouge, LA 
+Bergen-Passaic, NJ
+Buffalo-Niagara Falls, NY
+Chicago, IL
+Cleveland-Lorain-Elyria, OH
+Dallas, TX
+Denver, CO
+Detroit, MI
+Fort Lauderdale, FL
+Fort Worth-Arlington, TX
+Grand Rapids-Muskegon-Holland, MI
+Houston, TX
+Kansas City, MO-KS
+Las Vegas, NV-AZ
+Miami, FL
+Minneapolis-St. Paul, MN-WI
+Newark, NJ
+Norfolk-Virginia Beach-Newport News, VA-NC
+Oakland, CA
+Oklahoma City, OK
+Orange County, CA
+Philadelphia, PA-NJ
+Phoenix-Mesa, AZ
+Richmond-Petersburg, VA
+Sacramento, CA
+Salt Lake City-Ogden, UT
+San Antonio, TX
+San Diego, CA
+San Jose, CA
+St. Louis, MO-IL
+Tampa-St. Petersburg-Clearwater, FL
+Tulsa, OK
+Ventura, CA
+Washington, DC-MD-VA
+West Palm Beach-Boca Raton, FL
+Wichita, KS
+
+	Data Sources
+	HUD has used the most accurate and current data available to develop the FMR estimates.  The sources of survey data used for the base‑year estimates are:
+	(1)  The 1990 Census, which provides statistically reliable rent data for all FMR areas;
+	(2)  The Bureau of the Census' American Housing Surveys (AHS), which are used to develop between‑Census revisions for the largest metropolitan areas and which have accuracy comparable to the decennial Census; and
+	(3)  Random Digit Dialing (RDD) telephone surveys of individual FMR areas, which are based on a sampling procedure that uses computers to select statistically random samples of rental housing.
+	The base‑year FMRs are updated using trending factors based on Consumer Price Index (CPI) data for rents and utilities or on HUD regional rent change factors developed from regional RDD surveys.  Area-specific annual average CPI data are available for 99 metropolitan FMR areas.  RDD regional rent change factors are developed annually for the metropolitan and nonmetropolitan parts of each of the 10 HUD regions.  The RDD factors are used to update the base year estimates for all FMR areas that do not have their own local CPI survey.
+	Utility Costs
+HUD’s standard methodology for incorporating changes in utility costs in determination of the FMRs relies on the most current CPI data on annual changes in residential utility costs.  Annual rather than point-to-point monthly comparisons (e.g., July 1999 to July 2000) are used because monthly utility price indices are volatile and often not reflective of the annualized cost of utilities.  The annual cost indices take into account changes in prices and consumption patterns over the course of a year.  
+	In developing the FMRs for FY 2002, HUD has determined that the standard methodology does not adequately capture the unusual increases in natural gas prices that occurred at the end of calendar year 2000.  (The standard methodology does capture increases in fuel oil prices.)  The standard FMR methodology captures a 17 percent increase in natural gas prices from 1999 to 2000, but December 1999 to December 2000 prices increased by an average of 37 percent.  Department of Energy projections for 2002 are similar to the December 2000 prices.  For purposes of estimating FY 2002 FMRs, HUD has therefore modified the natural gas inflation component to use December-to-December costs when available, and to use second half to second half of the year figures for CPI areas where December 2000 data were not available.  This is a one-time change made to respond to unusual circumstances; HUD expects to return to the standard methodology next year.
+	For these three reasons, the impact of this change is modest for most areas:
+First, the change accounts for increases in the price of natural gas per unit of consumption, but not for increases in consumption associated with the unusually cold winter of 2000-2001.
+Second, on a national level, natural gas comprises only 27 percent of utility costs, and utility costs typically average 8-15 percent of total rent costs in metropolitan areas.  This means, for instance, that a 50 percent increase in natural gas prices only increases FMRs by a little over 1 percent in the typical metropolitan area.
+Third, since FMRs reflect monthly housing costs, the increase in FMRs due to this methodological change is spread across the course of an entire year rather than just the December-February heating season.  
+
+State Minimum FMRs
+	With the exception of areas with 50th percentile FMRs, FMRs are established at the higher of the local 40th percentile rent level or the Statewide average of nonmetropolitan counties, subject to a ceiling rent cap.  The State minimum also affects a small number of metropolitan areas whose rents would otherwise fall below the State minimum.
+Bedroom Size Adjustments
+	FMRs have been calculated separately for each bedroom size category. In areas where FMRs are based on the State minimums, the rents for each bedroom size are the higher of the rent for the area or for the Statewide average of nonmetropolitan counties for that bedroom size.  For all other FMR areas, the bedroom intervals are based on data for the specific area. 
+Exceptions to bedroom size intervals that are below normal ranges have been made for several areas (usually small nonmetropolitan counties).  For these areas, the intervals used are based on the typical minimum ratios found after outliers have been excluded.
+Higher bedroom size intervals are used for three-bedroom and larger size units than would result from using the actual market relationships. This is done to assist the largest, most difficult to house families in finding program-eligible units.  The FMRs for unit sizes larger than 4 bedroom are calculated by adding 15 percent to the 4 bedroom FMR for each extra bedroom. For example, the FMR for a 5-bedroom unit is 1.15 times the 4 bedroom FMR, and the FMR for a 6 bedroom unit is 1.30 times the 4 bedroom FMR.  FMRs for single-room-occupancy (SRO) units are 0.75 times the 0 bedroom FMR.
+Public Comments
+	In response to the May 9, 2001  (66 FR  23770) proposed FMRs, HUD received 25 public comments covering 23 FMR areas.  Rental housing survey information of some form was provided for 15 of those FMR areas.  All survey information submitted was evaluated and, based on that review, the FMRs for 10 areas are being revised upward.  The information submitted for the other FMR areas was not considered sufficient to provide a basis for revising the FMRs. 
+Areas with approved FMR increases are:
+Flagstaff, AZ
+Kanabec County, MN
+Mille Lacs County, MN
+Modesto, CA MSA
+Olympia, WA (Manufactured Home Space FMRs only)
+Pine County, MN
+Salem, OR (Manufactured Home Space FMRs only)
+St Mary’s County, MD (Manufactured Home Space FMRs only)
+Tooele, UT
+Vallejo-Fairfield-Napa, CA PMSA (Manufactured Home Space FMRs only)
+Three commenters expressed concern about the impact of higher utilities on FMRs:  the Michigan State Housing Development Authority noted that while FY 2001 FMRs were based on frozen natural gas rates, these rates will be deregulated for most of FY 2002; the Cuyahoga Metropolitan Housing Authority noted that utility increases have taken up most of the increase in the FMR over the past year; and the Rochester Housing Authority noted that increases in FMRs have not kept pace with natural gas increases.  As noted previously,  these concerns were taken into consideration in developing FY 2002 FMRs. 
+Four commenters requested changes to their FMR area geographic coverage:  the Housing Authority of the city of Santa Barbara (CA) requested a north/south split in the county; the Amherst Housing Authority (MA) requested that the Springfield MSA be subdivided by placing the towns of Amherst, Northampton, and Sunderland in a separate, new, FMR area; the Housing Authority of the City of Charlotte (NC) asked that Charlotte-Mecklenburg stand alone when calculating FMRs ; and the Housing Authority of the City of Dallas (TX) suggested the removal of the rural counties of Ellis, Hunt, Kaufman and Rockwall from the Dallas metropolitan FMR area.  HUD does not support splitting FMR areas.  FMR areas are intended to correspond to housing market areas, which HUD defines based on the Office of Management and Budget’s metropolitan area definitions. While there often are large differentials between rents in the highest and lowest cost sections of an FMR area, current FMR exception rules permit geographic area exceptions sufficient to account for these differences, especially now that exceptions can, in special cases, exceed the previous 120 percent limit.
+RDD Surveys
+
+	This notice makes effective two of the proposed three FMR decreases that were based on RDD surveys conducted in the first two months of 2001:
+Dallas, TX (HUD FMR Area)
+Newark, NJ PMSA
+In the preamble for the proposed FMRs, Hartford (CT) was mistakenly listed as a decrease.
+Comments on the proposed decrease for Dallas (TX) were provided by the Housing Authority of the City of Dallas.  A review of these comments led to a request for the PHA to replace its outdated utility schedule.  Use of this schedule eliminated most of the proposed FMR decrease. 
+No comment was received for:
+Newark, NJ PMSA
+There was a proposed decrease for the Detroit (MI) PMSA based on a winter 2001 RDD.  Use of an updated utility schedule for Detroit (MI), submitted by the PHA, produced a rent estimate within the confidence interval that included the current FMR, thereby eliminating the proposed reduction. 
+Summer RDDs  
+Based on RDDs conducted by HUD the summer of 2001, FMRs for the following areas are being increased by more than the normal adjustments:
+New Orleans, LA
+Boston, MA-NH MSA
+Portland, ME MSA
+Buffalo-Niagara Falls, NY
+Memphis, TN-AR-MS
+Summer 2001 RDDs also were done for the following areas, but they resulted in no change in the FMRs:
+Charlotte-Gastonia-Rock Hill, NC-SC
+Anchorage, AK MSA
+Syracuse, NY MSA
+There were no summer 2001 RDDs that showed FMRs needed to be reduced.
+American Housing Survey
+
+	There were no AHS surveys with results that alter proposed FY 2002 FMRs.
+
+FMR Area Definition Changes
+There were no changes in OMB metropolitan area definitions affecting the FY 2002 FMRs.
+Manufactured Home Space Surveys
+	FMRs used to establish payment standard amounts for the rental of manufactured home spaces in the Housing Choice Voucher program are 40 percent of the applicable Section 8 existing housing program FMR for a two-bedroom unit.  HUD will consider public comments requesting modifications of these manufactured home space FMRs where commentors claim that the 40 percent FMRs are inadequate.  In order to be accepted as a basis for revising the FMRs, comments must contain statistically valid survey data showing the 40th percentile manufactured home space rent (including the cost of utilities) for the entire FMR area.  Manufactured home space FMR revisions are published as final FMRs in Schedule D.  Once approved, the revised manufactured home space FMRs establish new base year estimates that are updated annually using the same data used to update the other FMRs. 
+HUD Rental Housing Survey Guides
+	HUD recommends the use of professionally‑conducted RDD telephone surveys to test the accuracy of FMRs for areas where there is a sufficient number of Section 8 units to justify the survey cost of $14,000-$20,000.  Areas with 500 or more program units usually meet this criterion, and areas with fewer units may meet it if local rents are thought to be significantly different than the FMR proposed by HUD.  In addition, HUD has developed a simplified version of the RDD survey methodology for smaller, nonmetropolitan HAs.  This methodology is designed to be simple enough to be done by the HA itself, rather than by professional survey organizations, at a cost of about $5,000.
+	HAs in nonmetropolitan areas may, in certain circumstances, do surveys of groups of counties.  All grouped county surveys must be approved in advance by HUD.  HAs are cautioned that the resulting FMRs will not be identical for the counties surveyed; each individual FMR area will have a separate FMR based on its relationship to the combined rent of the group of FMR areas.
+	HAs that plan to use the RDD survey technique may obtain a copy of the appropriate survey guide by calling HUD USER on 1‑800‑245‑2691.  Larger HAs should request "Random Digit Dialing Surveys; A Guide to Assist Larger Housing Agencies in Preparing Fair Market Rent Comments."  Smaller HAs should obtain "Rental Housing Surveys; A Guide to Assist Smaller Housing Agencies in Preparing Fair Market Rent Comments."  These guides are also available on the Internet at http://www.huduser.org/datasets/fmr.html.
+	HUD prefers, but does not mandate, the use of RDD telephone surveys, or the more traditional method described in the small HA survey guide.  Other survey methodologies are acceptable if they provide statistically reliable, unbiased estimates of the 40th percentile gross rent.  Survey samples should preferably be randomly drawn from a complete list of rental units for the FMR area.  If this is not feasible, the selected sample must be drawn so as to be statistically representative of the entire rental housing stock of the FMR area.  In particular, surveys must include units of all rent levels and be representative by structure type (including single‑family, duplex and other small rental properties), age of housing unit, and geographic location.  The decennial Census should be used as a starting point and means of verification for determining whether the sample is representative of the FMR area's rental housing stock.  All survey results must be fully documented.
+	The cost of an RDD survey may vary, depending on the characteristics of the telephone system used in the FMR area.  RDDs (and simplified telephone surveys) of some non-metropolitan areas have been unusually expensive because of telephone system characteristics.  An HA or contractor that cannot obtain the recommended number of sample responses after reasonable efforts should consult with HUD before abandoning its survey; in such situations HUD is prepared to relax normal sample size requirements.
+Accordingly, the Fair Market Rent Schedules, which will not be codified in 24 CFR Part 888, are amended as follows:  
+
+Dated:  
+						 _         ___                        
+						Mel Martinez
+						Secretary
+
+[FR-4680-N-02]
+Fair Market Rents for the Housing Choice Voucher Program
+
+Schedules B and D--General Explanatory Notes
+
+1. Geographic Coverage
+
+	a.  Metropolitan Areas--FMRs are housing market-wide rent estimates that are intended to provide housing opportunities throughout the geographic area in which rental housing units are in direct competition.  The FMRs shown in Schedule B incorporate OMB's most current definitions of metropolitan areas, with the exceptions discussed in paragraph (b).  HUD uses the OMB Metropolitan Statistical Area (MSA) and Primary Metropolitan Statistical Area (PMSA) definitions for FMR areas because they closely correspond to housing market area definitions. 
+	b.  Exceptions to OMB Definitions--The exceptions are counties deleted from several large metropolitan areas whose revised OMB metropolitan area definitions were determined by HUD to be larger than the housing market areas.  The FMRs for the following counties (shown by the metropolitan area) are calculated separately and are shown in Schedule B within their respective States under the "Metropolitan FMR Areas" listing:
+
+Metropolitan Area and Counties Deleted
+
+	Chicago, IL 
+		DeKalb, Grundy and Kendall Counties
+	Cincinnati‑Hamilton, OH‑KY‑IN 
+		Brown County, Ohio; Gallatin, Grant and Pendleton Counties in Kentucky; and Ohio County, Indiana
+	Dallas, TX 
+		Henderson County
+	Flagstaff, AZ‑UT 
+		Kane County, UT
+	New Orleans, LA 
+		St. James Parish
+	Washington, DC‑MD‑VA‑WV 
+		Berkeley and Jefferson Counties in West Virginia; and Clarke, Culpeper, King George and Warren Counties in Virginia
+
+	c.  Nonmetropolitan Area FMRs--FMRs also are established for nonmetropolitan counties and for county equivalents in the United States, for nonmetropolitan parts of counties in the New England states and for FMR areas in Puerto Rico, the Virgin Islands and the Pacific Islands.
+	d.  Virginia Independent Cities--FMRs for the areas in Virginia shown in the table below were established by combining the Census data for the nonmetropolitan counties with the data for the independent cities that are located within the county borders.  Because of space limitations, the FMR listing in Schedule B includes only the name of the nonmetropolitan County.  The full definitions of these areas, including the independent cities, are as follows:
+
+Virginia Nonmetropolitan County FMR Area and
+  Independent Cities Included With County
+
+
+	County			Cities
+     Allegheny	 		Clifton Forge and Covington
+     Augusta			Staunton and Waynesboro
+     Carroll 			Galax
+     Frederick			Winchester
+     Greensville 		Emporia
+     Henry			Martinsville
+     Montgomery 		Radford
+     Rockbridge			Buena Vista and Lexington
+     Rockingham		Harrisonburg
+     Southhampton 		Franklin
+     Wise 			Norton
+
+2.	Bedroom Size Adjustments
+
+	Schedule B shows the FMRs for 0-bedroom through 4-bedroom units. The FMRs for unit sizes larger than 4 bedrooms are calculated by adding 15 percent to the 4-bedroom FMR for each extra bedroom. For example, the FMR for a 5-bedroom unit is 1.15 times the 4-bedroom FMR, and the FMR for a 6-bedroom unit is 1.30 times the 4 bedroom FMR. FMRs for single-room-occupancy (SRO) units are 0.75 times the 0 bedroom FMR.
+
+3.	FMRs for Manufactured Home Spaces
+
+	FMRs for manufactured home spaces in the Housing Choice Voucher program are 40 percent of the two-bedroom Housing Choice Voucher program FMRs, with the exception of the areas listed in Schedule D whose manufactured home space FMRs have been modified on the basis of public comments.  Once approved, the revised manufactured home space FMRs establish new base-year estimates that are updated annually using the same data used to estimate the Housing Choice Voucher program FMRs.  The FMR area definitions used for the rental of manufactured home spaces are the same as the area definitions used for the other FMRs.
+
+4. Arrangement of FMR Areas and Identification of Constituent Parts
+
+	a.  The FMR areas in Schedule B are listed alphabetically by metropolitan FMR area and by nonmetropolitan county within each State.  The exception FMRs for manufactured home spaces in Schedule D are listed alphabetically by State.
+	b.  The constituent counties (and New England towns and cities) included in each metropolitan FMR area are listed immediately following the listings of the FMR dollar amounts.  All constituent parts of a metropolitan FMR area that are in more than one State can be identified by consulting the listings for each applicable State.
+	c.  Two nonmetropolitan counties are listed alphabetically on each line of the nonmetropolitan county listings.
+	d.  The New England towns and cities included in a nonmetropolitan part of a county are listed immediately following the county name. 
