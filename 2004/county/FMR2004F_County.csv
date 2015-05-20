@@ -1,0 +1,122 @@
+State,County,msa,pop100,CountyName,MSAName,FMRType,StateName,State_Alpha,New_FMR0,New_FMR1,New_FMR2,New_FMR3,New_FMR4
+51,3,1540,79236,Albemarle County,"Charlottesville, VA MSA",40,Virginia,VA,462,547,698,928,1040
+51,65,1540,20047,Fluvanna County,"Charlottesville, VA MSA",40,Virginia,VA,462,547,698,928,1040
+51,79,1540,15244,Greene County,"Charlottesville, VA MSA",40,Virginia,VA,462,547,698,928,1040
+51,540,1540,45049,Charlottesville city,"Charlottesville, VA MSA",40,Virginia,VA,462,547,698,928,1040
+51,43,1650,12652,Clarke County,Clarke County MSA*,40,Virginia,VA,369,521,674,926,945
+51,47,1891,34262,Culpeper County,Culpeper County MSA*,40,Virginia,VA,457,666,775,1024,1227
+51,143,1950,61745,Pittsylvania County,"Danville, VA MSA",40,Virginia,VA,315,397,466,626,755
+51,590,1950,48411,Danville city,"Danville, VA MSA",40,Virginia,VA,315,397,466,626,755
+51,169,3660,23403,Scott County,"Johnson City--Kingsport--Bristol, TN--VA MSA",40,Virginia,VA,328,391,486,629,745
+51,191,3660,51103,Washington County,"Johnson City--Kingsport--Bristol, TN--VA MSA",40,Virginia,VA,328,391,486,629,745
+51,520,3660,17367,Bristol city,"Johnson City--Kingsport--Bristol, TN--VA MSA",40,Virginia,VA,328,391,486,629,745
+51,99,3830,16803,King George County,King George County MSA*,40,Virginia,VA,447,595,667,927,934
+51,9,4640,31894,Amherst County,"Lynchburg, VA MSA",40,Virginia,VA,374,414,476,626,755
+51,19,4640,60371,Bedford County,"Lynchburg, VA MSA",40,Virginia,VA,374,414,476,626,755
+51,31,4640,51078,Campbell County,"Lynchburg, VA MSA",40,Virginia,VA,374,414,476,626,755
+51,515,4640,6299,Bedford city,"Lynchburg, VA MSA",40,Virginia,VA,374,414,476,626,755
+51,680,4640,65269,Lynchburg city,"Lynchburg, VA MSA",40,Virginia,VA,374,414,476,626,755
+51,73,5720,34780,Gloucester County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,93,5720,29728,Isle of Wight County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,95,5720,48102,James City County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,115,5720,9207,Mathews County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,199,5720,56297,York County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,550,5720,199184,Chesapeake city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,650,5720,146437,Hampton city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,700,5720,180150,Newport News city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,710,5720,234403,Norfolk city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,735,5720,11566,Poquoson city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,740,5720,100565,Portsmouth city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,800,5720,63677,Suffolk city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,810,5720,425257,Virginia Beach city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,830,5720,11998,Williamsburg city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",50,Virginia,VA,562,632,748,1044,1226
+51,36,6760,6926,Charles City County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,41,6760,259903,Chesterfield County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,53,6760,24533,Dinwiddie County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,75,6760,16863,Goochland County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,85,6760,86320,Hanover County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,87,6760,262300,Henrico County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,127,6760,13462,New Kent County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,145,6760,22377,Powhatan County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,149,6760,33047,Prince George County,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,570,6760,16897,Colonial Heights city,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,670,6760,22354,Hopewell city,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,730,6760,33740,Petersburg city,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,760,6760,197790,Richmond city,"Richmond--Petersburg, VA MSA",50,Virginia,VA,596,673,785,1091,1288
+51,23,6800,30496,Botetourt County,"Roanoke, VA MSA",40,Virginia,VA,317,397,515,660,822
+51,161,6800,85778,Roanoke County,"Roanoke, VA MSA",40,Virginia,VA,317,397,515,660,822
+51,770,6800,94911,Roanoke city,"Roanoke, VA MSA",40,Virginia,VA,317,397,515,660,822
+51,775,6800,24747,Salem city,"Roanoke, VA MSA",40,Virginia,VA,317,397,515,660,822
+51,187,8820,31584,Warren County,Warren County MSA*,40,Virginia,VA,361,495,661,865,1080
+51,13,8840,189453,Arlington County,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,59,8840,969749,Fairfax County,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,61,8840,55139,Fauquier County,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,107,8840,169599,Loudoun County,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,153,8840,280813,Prince William County,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,177,8840,90395,Spotsylvania County,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,179,8840,92446,Stafford County,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,510,8840,128283,Alexandria city,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,600,8840,21498,Fairfax city,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,610,8840,10377,Falls Church city,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,630,8840,19279,Fredericksburg city,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,683,8840,35135,Manassas city,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,685,8840,10290,Manassas Park city,"Washington, DC--MD--VA--WV PMSA",50,Virginia,VA,913,1039,1218,1660,2002
+51,1,10000,38305,Accomack County,,40,Virginia,VA,365,395,461,613,738
+51,5,10000,23518,Alleghany County,,40,Virginia,VA,320,389,456,613,738
+51,7,10000,11400,Amelia County,,40,Virginia,VA,308,389,456,613,738
+51,11,10000,13705,Appomattox County,,40,Virginia,VA,308,389,456,613,738
+51,15,10000,108988,Augusta County,,40,Virginia,VA,308,399,485,639,776
+51,17,10000,5048,Bath County,,40,Virginia,VA,308,389,456,613,738
+51,21,10000,6871,Bland County,,40,Virginia,VA,308,389,456,613,738
+51,25,10000,18419,Brunswick County,,40,Virginia,VA,308,389,456,613,738
+51,27,10000,26978,Buchanan County,,40,Virginia,VA,308,389,456,613,738
+51,29,10000,15623,Buckingham County,,40,Virginia,VA,308,389,456,613,738
+51,33,10000,22121,Caroline County,,40,Virginia,VA,436,442,591,784,826
+51,35,10000,36082,Carroll County,,40,Virginia,VA,308,389,456,613,738
+51,37,10000,12472,Charlotte County,,40,Virginia,VA,308,389,456,613,738
+51,45,10000,5091,Craig County,,40,Virginia,VA,308,389,456,613,738
+51,49,10000,9017,Cumberland County,,40,Virginia,VA,308,423,490,613,738
+51,51,10000,16395,Dickenson County,,40,Virginia,VA,308,389,456,613,738
+51,57,10000,9989,Essex County,,40,Virginia,VA,308,433,511,712,841
+51,63,10000,13874,Floyd County,,40,Virginia,VA,308,389,456,613,738
+51,67,10000,47286,Franklin County,,40,Virginia,VA,308,389,456,613,738
+51,69,10000,82794,Frederick County,,40,Virginia,VA,419,483,581,795,952
+51,71,10000,16657,Giles County,,40,Virginia,VA,308,389,456,613,738
+51,77,10000,17917,Grayson County,,40,Virginia,VA,308,389,456,613,738
+51,81,10000,17225,Greensville County,,40,Virginia,VA,308,399,456,613,738
+51,83,10000,37355,Halifax County,,40,Virginia,VA,308,389,456,613,738
+51,89,10000,73346,Henry County,,40,Virginia,VA,308,389,456,613,738
+51,91,10000,2536,Highland County,,40,Virginia,VA,308,389,456,613,738
+51,97,10000,6630,King and Queen County,,40,Virginia,VA,308,442,498,622,738
+51,101,10000,13146,King William County,,40,Virginia,VA,308,423,473,613,738
+51,103,10000,11567,Lancaster County,,40,Virginia,VA,386,432,488,650,792
+51,105,10000,23589,Lee County,,40,Virginia,VA,308,389,456,613,738
+51,109,10000,25627,Louisa County,,40,Virginia,VA,308,401,495,687,738
+51,111,10000,13146,Lunenburg County,,40,Virginia,VA,308,389,456,613,738
+51,113,10000,12520,Madison County,,40,Virginia,VA,309,459,516,648,848
+51,117,10000,32380,Mecklenburg County,,40,Virginia,VA,308,389,456,613,738
+51,119,10000,9932,Middlesex County,,40,Virginia,VA,308,391,456,613,738
+51,121,10000,99488,Montgomery County,,40,Virginia,VA,316,417,489,679,803
+51,125,10000,14445,Nelson County,,40,Virginia,VA,308,389,456,613,738
+51,131,10000,13093,Northampton County,,40,Virginia,VA,308,389,456,613,738
+51,133,10000,12259,Northumberland County,,40,Virginia,VA,308,389,456,613,738
+51,135,10000,15725,Nottoway County,,40,Virginia,VA,308,389,456,613,738
+51,137,10000,25881,Orange County,,40,Virginia,VA,342,464,622,866,1016
+51,139,10000,23177,Page County,,40,Virginia,VA,358,403,456,613,738
+51,141,10000,19407,Patrick County,,40,Virginia,VA,308,389,456,613,738
+51,147,10000,19720,Prince Edward County,,40,Virginia,VA,345,391,456,613,738
+51,155,10000,35127,Pulaski County,,40,Virginia,VA,308,389,456,613,738
+51,157,10000,6983,Rappahannock County,,40,Virginia,VA,312,506,570,790,932
+51,159,10000,8809,Richmond County,,40,Virginia,VA,308,412,460,613,757
+51,163,10000,34024,Rockbridge County,,40,Virginia,VA,308,389,456,613,738
+51,165,10000,108193,Rockingham County,,40,Virginia,VA,308,427,540,740,868
+51,167,10000,30308,Russell County,,40,Virginia,VA,308,389,456,613,738
+51,171,10000,35075,Shenandoah County,,40,Virginia,VA,406,417,512,710,807
+51,173,10000,33081,Smyth County,,40,Virginia,VA,308,389,456,613,738
+51,175,10000,25828,Southampton County,,40,Virginia,VA,308,389,456,613,738
+51,181,10000,6829,Surry County,,40,Virginia,VA,319,389,456,613,738
+51,183,10000,12504,Sussex County,,40,Virginia,VA,308,389,456,613,738
+51,185,10000,44598,Tazewell County,,40,Virginia,VA,308,389,456,613,738
+51,193,10000,16718,Westmoreland County,,40,Virginia,VA,308,417,553,696,900
+51,195,10000,44027,Wise County,,40,Virginia,VA,308,389,456,613,738
+51,197,10000,27599,Wythe County,,40,Virginia,VA,321,389,456,613,738
