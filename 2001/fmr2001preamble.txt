@@ -1,0 +1,777 @@
+[Federal Register: January 2, 2001 (Volume 66, Number 1)]
+[Rules and Regulations]               
+[Page 161-220]
+From the Federal Register Online via GPO Access [wais.access.gpo.gov]
+[DOCID:fr02ja01-14]                         
+
+
+[[Page 161]]
+
+-----------------------------------------------------------------------
+
+Part III
+
+
+
+
+
+Department of Housing and Urban Development
+
+
+
+
+
+-----------------------------------------------------------------------
+
+
+
+24 CFR Part 888
+
+
+
+-----------------------------------------------------------------------
+
+
+
+50th Percentile and 40th Percentile Fair Market Rents for Fiscal Year 
+2001; Final Rule
+
+
+[[Page 162]]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+24 CFR Part 888
+
+[Docket No. FR-4589-N-04]
+
+ 
+50th Percentile and 40th Percentile Fair Market Rents for Fiscal 
+Year 2001
+
+AGENCY: Office of the Secretary, HUD.
+
+ACTION: Notice of Fair Market Rents (FMRs) for Fiscal Year (FY) 2001.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Section 8(c)(1) of the United States Housing Act of 1937 
+requires the Secretary of HUD to publish FMRs periodically, but not 
+less frequently than annually to be effective on October 1 of each 
+year. FMRs are used (1) to establish payment standards for the Housing 
+Choice Voucher program; (2) to determine initial contract rents in new 
+commitments for Section 8 project-based assistance (currently available 
+chiefly in the project-based voucher program); (3) to determine whether 
+comparability applies to adjustment of contract rents during the term 
+of existing HAP contracts for the former new construction, substantial 
+rehabilitation and moderate rehabilitation programs; (4) as a limit on 
+renewal rents for certain Section 8 projects (including mark-up-to-
+market projects); and (5) to determine maximum subsidy levels for HOME 
+tenant-based rental assistance, and maximum rent levels in HOME 
+multifamily rental housing. Other programs may also require the use of 
+FMRs.
+    This notice sets final FMRs that reflect the 50th percentile rent 
+levels for 39 areas, as determined by applying the criteria specified 
+in HUD's interim rule amending the HUD regulation that establishes the 
+methodology for setting FMRs for existing housing (24 CFR 888.113). The 
+interim was published on October 2, 2000 (65 FR 58870), and became 
+effective on December 1, 2000. To combine final Fiscal Year 2001 FMRs 
+for all areas in one publication, this notice also re-publishes the 
+40th percentile rents for all other areas.
+
+EFFECTIVE DATE: The 50th percentile FMRs published in this notice are 
+effective on January 2, 2001. The 40th percentile FMRs were previously 
+effective on October 1, 2000.
+    Electronic Data Availability: This Federal Register Notice is 
+available electronically from the HUD news page: http://
+www.hudclips.org/cgi/index.cgi. Federal Register Notices also are 
+available electronically from the U.S. Government Printing Office web 
+site: http://www.access.gpo.gov/su_docs/aces/aces140.html.
+    The data set of the 50th percentile FMRs is available 
+electronically on the HUD web page: http://www.huduser.org/datasets/
+pdrdatas.html.
+
+FOR FURTHER INFORMATION CONTACT: Gerald Benoit, Director, Real Estate 
+and Housing Performance Division, Office of Public and Assisted Housing 
+Delivery, telephone (202) 708-0477. For technical information on the 
+development of schedules for specific areas or the method used for the 
+rent calculations, contact Marie L. Lihn, Economic and Market Analysis 
+Division, Office of Economic Affairs, telephone (202) 708-0590, 
+Extension 5866 (e-mail: Marie_L._Lihn@hud.gov). Hearing-or speech-
+impaired persons may use the Telecommunications Devices for the Deaf 
+(TTY) by contacting the Federal Information Relay Service at 1-800-877-
+8339. (Other than the ``800'' TTY number, telephone numbers are not 
+toll free.)
+
+SUPPLEMENTARY INFORMATION: Section 8 of the United States Housing Act 
+of 1937 (the Act) (42 U.S.C. 1437f) authorizes housing assistance to 
+help lower income families rent decent, safe, and sanitary housing. The 
+amounts of the housing assistance payments are limited by ``fair market 
+rents'' (FMRs) established by HUD for all areas, and for different size 
+units (expressed as number of bedrooms in a unit).
+    In the HUD voucher program, the FMR is used to determine the 
+``payment standard'' (the maximum monthly subsidy) for assisted 
+families (see Section 982.503.) In general, the FMR for an area is the 
+amount that would be needed to pay the gross rent (shelter rent plus 
+utilities) of privately owned, decent, safe, and sanitary rental 
+housing of a modest (non-luxury) nature with suitable amenities.
+    FMRs are estimates of rent plus the cost of utilities, except 
+telephone. FMRs are housing market-wide estimates of rents that provide 
+opportunities to rent standard quality housing throughout the 
+geographic area in which rental housing units are in competition.
+    The level at which FMRs are set is expressed as a percentile point 
+within the rent distribution of standard quality rental housing units 
+in the FMR area. FMRs are set at either the 40th or 50th percentile 
+rent--the dollar amount below which the rent for 40 or 50 percent of 
+standard quality rental housing units falls. The 40th or 50th 
+percentile rent is drawn from the distribution of rents of all units 
+that are occupied by recent movers. Adjustments are made to exclude 
+public housing units, newly built units and substandard units.
+
+50th Percentile FMRs
+
+    Raising FMRs for certain areas to the 50th percentile rent level as 
+provided in the interim rule, effective December 1, 2000, is designed 
+to give lower-income families who participate in the voucher program 
+access to a broader range of housing opportunities throughout a 
+metropolitan area. FMRs have been increased to the 50th percentile rent 
+in those metropolitan areas where a FMR increase is most needed to 
+promote residential choice, help families move closer to areas of job 
+growth, and deconcentrate poverty. New paragraph (c) Of Section 888.113 
+provides as follows:
+    (c) Setting FMRs at the 50th percentile rent to provide a broad 
+range of housing opportunities throughout a metropolitan area.
+    (1) HUD will set the FMRs at the 50th percentile rent for all unit 
+sizes in each metropolitan FMR area that meets all of the following 
+criteria at the time of annual publication of the FMRs:
+    (i) The FMR area contains at least 100 census tracts;
+    (ii) 70 percent or fewer of the census tracts with at least 10 two 
+bedroom rental units are census tracts in which at least 30 percent of 
+the two bedroom rental units have gross rents at or below the two 
+bedroom FMR set at the 40th percentile rent; and
+    (iii) 25 percent or more of the tenant-based rental program 
+participants in the FMR area reside in the 5 percent of the census 
+tracts within the FMR area that have the largest number of program 
+participants.
+    (2) If the FMRs are set at the 50th percentile rent in accordance 
+with paragraph (c)(1) of this section, HUD will set the FMRs at the 
+50th percentile rent for a total of three years.
+    (i) At the end of the three-year period, HUD will continue to set 
+the FMRs at the 50th percentile rent only so long as the concentration 
+measure for the current year is less than the concentration measure at 
+the time the FMR area first received an FMR set at the 50th percentile 
+rent. HUD will publish FMRs based on the 40th percentile rent for FMR 
+areas that do not qualify for continued use of the 50th percentile 
+rent.
+    (ii) For purposes of this section, the term ``concentration 
+measure'' means the percentage of tenant-based rental program 
+participants in the FMR area who reside in the 5 percent of the census 
+tracts within the FMR area that have the largest number of program 
+participants.
+
+[[Page 163]]
+
+    (iii) FMR areas that do not meet the test for continued use of FMRs 
+set at the 50th percentile will be ineligible to use FMR set at the 
+50th percentile for a period of three years.
+    (iv) A PHA whose jurisdiction includes one or more FMR areas that 
+are no longer eligible to use FMRs set at the 50th percentile may be 
+eligible for a higher payment standard under Section 982.503 (f).
+    Schedule B of this document lists the FMRs for all areas. Schedule 
+B includes FMRs set at the 50th percentile rent for 39 FMR areas in 
+accordance with Section 888.113 (c), and at the 40th percentile rent 
+for all other FMR areas. In Schedule B, an asterisk identifies each of 
+the 39 FMR areas for which HUD has determined 50th percentile FMRs.
+    HUD has set 50th percentile FMRs for the following metropolitan FMR 
+areas:
+
+Albuquerque, NM
+Atlanta, GA
+Austin-San Marcos, TX
+Baton Rouge, LA
+Bergen-Passaic, NJ
+Buffalo-Niagara Falls, NY
+Chicago, IL
+Cleveland-Lorain-Elyria, OH
+Dallas, TX
+Denver, CO
+Detroit, MI
+Fort Lauderdale, FL
+Fort Worth-Arlington, TX
+Grand Rapids-Muskegon-Holland, MI
+Houston, TX
+Kansas City, MO-KS
+Las Vegas, NV-AZ
+Miami, FL
+Minneapolis-St. Paul, MN-WI
+Newark, NJ
+Norfolk-Virginia Beach-Newport News, VA-NC
+Oakland, CA
+Oklahoma City, OK
+Orange County, CA
+Philadelphia, PA-NJ
+Phoenix-Mesa, AZ
+Richmond-Petersburg, VA
+Sacramento, CA
+Salt Lake City-Ogden, UT
+San Antonio, TX
+San Diego, CA
+San Jose, CA
+St. Louis, MO-IL
+Tampa-St. Petersburg-Clearwater, FL
+Tulsa, OK
+Ventura, CA
+Washington, DC-MD-VA
+West Palm Beach-Boca Raton, FL
+Wichita, KS
+
+Manufactured Home Space FMRs Based on 50th Percentile Rent
+
+    As in the past, FMRs for the rental of manufactured home spaces in 
+the tenant-based Housing Choice Voucher program are set at 40 percent 
+of the applicable Section 8 existing housing program FMRs for two-
+bedroom units (section 888.113(e)). The manufactured home space FMR for 
+each of the 39 areas for which HUD has set 50th percentile FMR, is set 
+a 40 percent of the two-bedroom 50th percentile FMR.
+
+Consideration of Public Comment
+
+    In response to the October 6, 2000 proposed 50th percentile FMRs 
+for 39 areas, HUD received six public comments. No rental housing 
+survey information was submitted with any of the comments. Two comments 
+specifically discussed the implementation of the provisions under the 
+interim rule and were not related to FMR areas. The six comments 
+received and responses are summarized below:
+    Comment: The Housing Authority of the City of New Braunfels, Texas 
+says its jurisdiction has high rents that are more comparable to Austin 
+than San Antonio and that it has a very high turn-back rate for its 
+Housing Choice Voucher program.
+    Response: The New Braunfels PHA does not appear to have taken 
+advantage of its discretion to raise payment standards to 110 percent 
+of the FMR. If the PHA were to continue to experience high turn-back 
+rates, despite having increased its payment standard to 110 percent of 
+the FMR, it could qualify for the success rate payment standard based 
+on a 50th percentile rent. HUD also provides several additional 
+mechanisms for obtaining exception payment standards above 110 percent 
+of the 40th percentile FMR. (See 24 CFR 982.503.)
+    Comment: Two Public Housing Authorities (PHAs), The Housing 
+Authority of the City of New Braunfels, Texas and the Oklahoma City 
+Housing Authority request additional funding from HUD for their voucher 
+programs. The New Braunfels PHA requests additional funding for a 
+higher payment standard, the Oklahoma City PHA requests additional 
+funding for the new 50th percentile FMRs.
+    Response: HUD's current procedures provide sufficient funding for 
+PHAs to cover the increased costs resulting from higher payment 
+standards or an FMR increase. Any additional costs resulting from the 
+higher payment standard or higher FMR would be reflected in the PHA's 
+costs per unit for the current year. Under HUD's renewal regulations 
+(see 24 CFR 982.102), a PHA experiencing increased per-unit costs in 
+year 1 will generally receive an increase in its funding in the 
+following year in light of these higher per-unit costs. This enables 
+PHAs to increase payment standards where necessary to ensure the 
+successful use of Housing Choice Vouchers.
+    Comment: Foothill-West Associates, the administrator of a senior 
+apartment complex, notes that rents in Butte County, California have 
+increased countywide by an average of 12-13 percent and requests a 
+survey by HUD.
+    Response: HUD is currently developing a list of potential areas 
+that will be surveyed during the upcoming winter and summer. Chico-
+Paradise MSA (Butte County) will be placed on this list as a potential 
+candidate and its need for a survey will be evaluated in comparison 
+with the needs of other FMR areas.
+    Comment: The Council of Large Public Housing Authorities finds that 
+the proposed rule is too restrictive in that it limits increasing the 
+FMRs to only 39 metropolitan market areas. CLPHA also is concerned that 
+the proposed rule lacks transparency because HUD has not identified the 
+sources of information used to determine eligibility and has not 
+established a method to appeal the designation of ineligibility.
+    Response: These comments go to the merits of the interim rule that 
+provides for increased FMRs and success rate payment standards, rather 
+than to HUD's calculations of the 50th percentile rent in accordance 
+with the rule.
+    Comment: The Dallas Housing Authority supports the efforts of HUD 
+to increase FMRs.
+
+Calculation Errors
+
+    This notice corrects the 3-bedroom FMR for Utica-Rome, NY and makes 
+it $626.
+
+Other Matters
+
+Environmental Impact
+
+    A Finding of No Significant Impact with respect to the environment 
+as required by the National Environmental Policy Act (42 U.S.C. 4321-
+4374) is unnecessary, since the Section 8 Rental Certificate Program is 
+categorically excluded from the Department's National Environmental 
+Policy Act procedures under 24 CFR 50.20(d).
+
+Regulatory Flexibility Act
+
+    The undersigned, in accordance with the Regulatory Flexibility Act 
+(5 U.S.C. 605(b)), hereby certifies that this notice does not have a 
+significant economic impact on a substantial number of small entities, 
+because 50th percentile FMRs do not change the rent from that which 
+would be charged if the unit were not in the Section 8 Program.
+
+[[Page 164]]
+
+Catalog of Federal Domestic Assistance
+
+    The Catalog of Federal Domestic Assistance program number is 
+14.156, Lower-Income Housing Assistance Program (Section 8).
+    Accordingly, the Fair Market Rent Schedules, which will not be 
+codified in 24 CFR part 888, are amended as follows:
+
+    Dated: December 21, 2000.
+Andrew M. Cuomo,
+Secretary.
+
+Fair Market Rents for the Housing Choice Voucher Program
+
+Schedules B and D--General Explanatory Notes
+
+1. Geographic Coverage
+    a. Metropolitan Areas--FMRs are housing market-wide rent estimates 
+that are intended to provide housing opportunities throughout the 
+geographic area in which rental housing units are in direct 
+competition. The FMRs shown in Schedule B incorporate OMB's most 
+current definitions of metropolitan areas, with the exceptions 
+discussed in paragraph (b). HUD uses the OMB Metropolitan Statistical 
+Area (MSA) and Primary Metropolitan Statistical Area (PMSA) definitions 
+for FMR areas because they closely correspond to housing market area 
+definitions.
+    b. Exceptions to OMB Definitions--The exceptions are counties 
+deleted from several large metropolitan areas whose revised OMB 
+metropolitan area definitions were determined by HUD to be larger than 
+the housing market areas. The FMRs for the following counties (shown by 
+the metropolitan area) are calculated separately and are shown in 
+Schedule B within their respective States under the ``Metropolitan FMR 
+Areas'' listing:
+
+Metropolitan Area and Counties Deleted
+
+Chicago, IL
+    DeKalb, Grundy and Kendall Counties
+Cincinnati-Hamilton, OH-KY-IN
+    Brown County, Ohio; Gallatin, Grant and Pendleton Counties in 
+Kentucky; and Ohio County, Indiana
+Dallas, TX
+    Henderson County
+Flagstaff, AZ-UT
+    Kane County, UT
+New Orleans, LA
+    St. James Parish
+Washington, DC-MD-VA-WV
+    Berkeley and Jefferson Counties in West Virginia; and Clarke, 
+Culpeper, King George and Warren Counties in Virginia
+
+    c. Nonmetropolitan Area FMRs--FMRs also are established for 
+nonmetropolitan counties and for county equivalents in the counties in 
+the United States, for nonmetropolitan parts of counties in the New 
+England states and for FMR areas in Puerto Rico, the Virgin Islands and 
+the Pacific Islands.
+    d. Virginia Independent Cities--FMRs for the areas in Virginia 
+shown in the table below were established by combining the Census data 
+for the nonmetropolitan counties with the data for the independent 
+cities that are located within the county borders. Because of space 
+limitations, the FMR listing in Schedule B includes only the name of 
+the nonmetropolitan County. The full definitions of these areas, 
+including the independent cities, are as follows:
+
+Virginia Nonmetropolitan County FMR Area and Independent Cities Included
+                               With County
+------------------------------------------------------------------------
+                  County                               Cities
+------------------------------------------------------------------------
+Allegheny.................................  Clifton Forge and Covington.
+Augusta...................................  Staunton and Waynesboro.
+Carroll...................................  Galax.
+Frederick.................................  Winchester.
+Greensville...............................  Emporia.
+Henry.....................................  Martinsville.
+Montgomery................................  Radford.
+Rockbridge................................  Buena Vista and Lexington.
+Rockingham................................  Harrisonburg.
+Southhampton..............................  Franklin.
+Wise......................................  Norton.
+------------------------------------------------------------------------
+
+2. Bedroom Size Adjustments
+    Schedule B shows the FMRs for 0-bedroom through 4-bedroom units. 
+The FMRs for unit sizes larger than 4 bedrooms are calculated by adding 
+15 percent to the 4-bedroom FMR for each extra bedroom. For example, 
+the FMR for a 5-bedroom unit is 1.15 times the 4-bedroom FMR, and the 
+FMR for a 6-bedroom unit is 1.30 times the 4 bedroom FMR. FMRs for 
+single-room-occupancy (SRO) units are 0.75 times the 0 bedroom FMR.
+3. FMRs for Manufactured Home Spaces
+    FMRs for manufactured home spaces in the Housing Choice Voucher 
+program are 40 percent of the two-bedroom Housing Choice Voucher 
+program FMRs, with the exception of the areas listed in Schedule D 
+whose manufactured home space FMRs have been modified on the basis of 
+public comments. Once approved, the revised manufactured home space 
+FMRs establish new base-year estimates that are updated annually using 
+the same data used to estimate the Housing Choice Voucher program FMRs. 
+The FMR area definitions used for the rental of manufactured home 
+spaces are the same as the area definitions used for the other FMRs.
+4. Arrangement of FMR Areas and Identification of Constituent Parts
+    a. The FMR areas in Schedule B are listed alphabetically by 
+metropolitan FMR area and by nonmetropolitan county within each State. 
+The exception FMRs for manufactured home spaces in Schedule D are 
+listed alphabetically by State.
+    b. The constituent counties (and New England towns and cities) 
+included in each metropolitan FMR area is listed immediately following 
+the listings of the FMR dollar amounts. All constituent parts of a 
+metropolitan FMR area that are in more than one State can be identified 
+by consulting the listings for each applicable State.
+    c. Two nonmetropolitan counties are listed alphabetically on each 
+line of the nonmetropolitan county listings.
+    d. The New England towns and cities included in a nonmetropolitan 
+part of a county are listed immediately following the county name.
+5. 50th Percentile FMRs
+    All 50th percentile FMRs are designated by an asterisk to 
+differentiate them from the 40th percentile FMRs.
+BILLING CODE 4210-62-P
+
+[[Page 165]]
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.000
+
+
+[[Page 166]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.001
+
+
+[[Page 167]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.002
+
+
+[[Page 168]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.003
+
+
+[[Page 169]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.004
+
+
+[[Page 170]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.005
+
+
+[[Page 171]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.006
+
+
+[[Page 172]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.007
+
+
+[[Page 173]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.008
+
+
+[[Page 174]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.009
+
+
+[[Page 175]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.010
+
+
+[[Page 176]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.011
+
+
+[[Page 177]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.012
+
+
+[[Page 178]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.013
+
+
+[[Page 179]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.014
+
+
+[[Page 180]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.015
+
+
+[[Page 181]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.016
+
+
+[[Page 182]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.017
+
+
+[[Page 183]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.018
+
+
+[[Page 184]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.019
+
+
+[[Page 185]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.020
+
+
+[[Page 186]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.021
+
+
+[[Page 187]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.022
+
+
+[[Page 188]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.023
+
+
+[[Page 189]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.024
+
+
+[[Page 190]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.025
+
+
+[[Page 191]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.026
+
+
+[[Page 192]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.027
+
+
+[[Page 193]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.028
+
+
+[[Page 194]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.029
+
+
+[[Page 195]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.030
+
+
+[[Page 196]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.031
+
+
+[[Page 197]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.032
+
+
+[[Page 198]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.033
+
+
+[[Page 199]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.034
+
+
+[[Page 200]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.035
+
+
+[[Page 201]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.036
+
+
+[[Page 202]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.037
+
+
+[[Page 203]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.038
+
+
+[[Page 204]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.039
+
+
+[[Page 205]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.040
+
+
+[[Page 206]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.041
+
+
+[[Page 207]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.042
+
+
+[[Page 208]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.043
+
+
+[[Page 209]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.044
+
+
+[[Page 210]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.045
+
+
+[[Page 211]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.046
+
+
+[[Page 212]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.047
+
+
+[[Page 213]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.048
+
+
+[[Page 214]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.049
+
+
+[[Page 215]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.050
+
+
+[[Page 216]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.051
+
+
+[[Page 217]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.052
+
+
+[[Page 218]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.053
+
+
+[[Page 219]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.054
+
+
+[[Page 220]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02JA01.055
+
+[FR Doc. 00-33374 Filed 12-29-00; 8:45 am]
+BILLING CODE 4210-62-C
+
+
