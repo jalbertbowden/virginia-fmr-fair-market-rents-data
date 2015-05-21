@@ -1,0 +1,136 @@
+fips,fmr2,fmr0,fmr1,fmr3,fmr4,State,county,CouSub,county_town_name,Pop100,areaname,countyname,state_alpha,fmr_type
+5100199999,508,330,452,617,760,51,1,99999,Accomack County,38305,"Accomack County, VA",Accomack County,VA,40
+5100399999,761,535,643,986,1091,51,3,99999,Albemarle County,79236,"Charlottesville, VA MSA",Albemarle County,VA,40
+5100599999,473,307,394,575,599,51,5,99999,Alleghany County,12926,"Alleghany County-Clifton Forge city-Covington city, VA HUD Nonmetro FMR Area",Alleghany County,VA,40
+5100799999,757,625,678,1010,1206,51,7,99999,Amelia County,11400,"Richmond, VA HUD Metro FMR Area",Amelia County,VA,50
+5100999999,534,432,443,658,735,51,9,99999,Amherst County,31894,"Lynchburg, VA MSA",Amherst County,VA,40
+5101199999,534,432,443,658,735,51,11,99999,Appomattox County,13705,"Lynchburg, VA MSA",Appomattox County,VA,40
+5101399999,1225,948,1080,1580,2068,51,13,99999,Arlington County,189453,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Arlington County,VA,50
+5101599999,565,421,433,808,929,51,15,99999,Augusta County,65615,"Augusta County-Staunton city-Waynesboro city, VA HUD Nonmetro FMR Area",Augusta County,VA,40
+5101799999,533,413,429,736,888,51,17,99999,Bath County,5048,"Bath County, VA",Bath County,VA,40
+5101999999,534,432,443,658,735,51,19,99999,Bedford County,60371,"Lynchburg, VA MSA",Bedford County,VA,40
+5102199999,449,374,387,572,636,51,21,99999,Bland County,6871,"Bland County, VA",Bland County,VA,40
+5102399999,589,428,456,747,816,51,23,99999,Botetourt County,30496,"Roanoke, VA HUD Metro FMR Area",Botetourt County,VA,40
+5102599999,499,415,428,622,861,51,25,99999,Brunswick County,18419,"Brunswick County, VA",Brunswick County,VA,40
+5102799999,449,374,387,572,636,51,27,99999,Buchanan County,26978,"Buchanan County, VA",Buchanan County,VA,40
+5102999999,465,387,418,598,756,51,29,99999,Buckingham County,15623,"Buckingham County, VA",Buckingham County,VA,40
+5103199999,534,432,443,658,735,51,31,99999,Campbell County,51078,"Lynchburg, VA MSA",Campbell County,VA,40
+5103399999,757,625,678,1010,1206,51,33,99999,Caroline County,22121,"Richmond, VA HUD Metro FMR Area",Caroline County,VA,50
+5103599999,451,375,407,541,601,51,35,99999,Carroll County,29245,"Carroll County-Galax city, VA HUD Nonmetro FMR Area",Carroll County,VA,40
+5103699999,757,625,678,1010,1206,51,36,99999,Charles City County,6926,"Richmond, VA HUD Metro FMR Area",Charles City County,VA,50
+5103799999,465,387,418,598,756,51,37,99999,Charlotte County,12472,"Charlotte County, VA",Charlotte County,VA,40
+5104199999,757,625,678,1010,1206,51,41,99999,Chesterfield County,259903,"Richmond, VA HUD Metro FMR Area",Chesterfield County,VA,50
+5104399999,1225,948,1080,1580,2068,51,43,99999,Clarke County,12652,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Clarke County,VA,50
+5104599999,589,428,456,747,816,51,45,99999,Craig County,5091,"Roanoke, VA HUD Metro FMR Area",Craig County,VA,40
+5104799999,722,599,610,934,992,51,47,99999,Culpeper County,34262,"Culpeper County, VA",Culpeper County,VA,40
+5104999999,757,625,678,1010,1206,51,49,99999,Cumberland County,9017,"Richmond, VA HUD Metro FMR Area",Cumberland County,VA,50
+5105199999,418,348,373,545,561,51,51,99999,Dickenson County,16395,"Dickenson County, VA",Dickenson County,VA,40
+5105399999,757,625,678,1010,1206,51,53,99999,Dinwiddie County,24533,"Richmond, VA HUD Metro FMR Area",Dinwiddie County,VA,50
+5105799999,590,388,479,803,828,51,57,99999,Essex County,9989,"Essex County, VA",Essex County,VA,40
+5105999999,1225,948,1080,1580,2068,51,59,99999,Fairfax County,969749,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Fairfax County,VA,50
+5106199999,1225,948,1080,1580,2068,51,61,99999,Fauquier County,55139,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Fauquier County,VA,50
+5106399999,534,443,482,743,940,51,63,99999,Floyd County,13874,"Floyd County, VA",Floyd County,VA,40
+5106599999,761,535,643,986,1091,51,65,99999,Fluvanna County,20047,"Charlottesville, VA MSA",Fluvanna County,VA,40
+5106799999,466,302,362,557,594,51,67,99999,Franklin County,47286,"Franklin County, VA HUD Metro FMR Area",Franklin County,VA,40
+5106999999,647,472,490,893,919,51,69,99999,Frederick County,59209,"Winchester, VA HUD Metro FMR Area",Frederick County,VA,40
+5107199999,449,292,379,572,790,51,71,99999,Giles County,16657,"Giles County, VA HUD Metro FMR Area",Giles County,VA,40
+5107399999,811,672,706,1118,1401,51,73,99999,Gloucester County,34780,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Gloucester County,VA,50
+5107599999,757,625,678,1010,1206,51,75,99999,Goochland County,16863,"Richmond, VA HUD Metro FMR Area",Goochland County,VA,50
+5107799999,449,374,387,572,636,51,77,99999,Grayson County,17917,"Grayson County, VA",Grayson County,VA,40
+5107999999,761,535,643,986,1091,51,79,99999,Greene County,15244,"Charlottesville, VA MSA",Greene County,VA,40
+5108199999,500,416,451,604,750,51,81,99999,Greensville County,11560,"Greensville County-Emporia city, VA HUD Nonmetro FMR Area",Greensville County,VA,40
+5108399999,435,283,393,584,764,51,83,99999,Halifax County,37355,"Halifax County, VA",Halifax County,VA,40
+5108599999,757,625,678,1010,1206,51,85,99999,Hanover County,86320,"Richmond, VA HUD Metro FMR Area",Hanover County,VA,50
+5108799999,757,625,678,1010,1206,51,87,99999,Henrico County,262300,"Richmond, VA HUD Metro FMR Area",Henrico County,VA,50
+5108999999,452,348,363,579,664,51,89,99999,Henry County,57930,"Henry County-Martinsville city, VA HUD Nonmetro FMR Area",Henry County,VA,40
+5109199999,533,413,429,736,888,51,91,99999,Highland County,2536,"Highland County, VA",Highland County,VA,40
+5109399999,811,672,706,1118,1401,51,93,99999,Isle of Wight County,29728,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Isle of Wight County,VA,50
+5109599999,811,672,706,1118,1401,51,95,99999,James City County,48102,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",James City County,VA,50
+5109799999,757,625,678,1010,1206,51,97,99999,King and Queen County,6630,"Richmond, VA HUD Metro FMR Area",King and Queen County,VA,50
+5109999999,728,604,606,1059,1090,51,99,99999,King George County,16803,"King George County, VA",King George County,VA,40
+5110199999,757,625,678,1010,1206,51,101,99999,King William County,13146,"Richmond, VA HUD Metro FMR Area",King William County,VA,50
+5110399999,581,388,477,715,769,51,103,99999,Lancaster County,11567,"Lancaster County, VA",Lancaster County,VA,40
+5110599999,397,257,310,510,540,51,105,99999,Lee County,23589,"Lee County, VA",Lee County,VA,40
+5110799999,1225,948,1080,1580,2068,51,107,99999,Loudoun County,169599,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Loudoun County,VA,50
+5110999999,574,444,504,687,707,51,109,99999,Louisa County,25627,"Louisa County, VA HUD Metro FMR Area",Louisa County,VA,40
+5111199999,499,415,428,622,861,51,111,99999,Lunenburg County,13146,"Lunenburg County, VA",Lunenburg County,VA,40
+5111399999,574,426,475,794,820,51,113,99999,Madison County,12520,"Madison County, VA",Madison County,VA,40
+5111599999,811,672,706,1118,1401,51,115,99999,Mathews County,9207,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Mathews County,VA,50
+5111799999,486,316,394,596,795,51,117,99999,Mecklenburg County,32380,"Mecklenburg County, VA",Mecklenburg County,VA,40
+5111999999,581,388,477,708,769,51,119,99999,Middlesex County,9932,"Middlesex County, VA",Middlesex County,VA,40
+5112199999,575,469,513,789,1010,51,121,99999,Montgomery County,83629,"Blacksburg-Christiansburg-Radford, VA HUD Metro FMR Area",Montgomery County,VA,40
+5112599999,761,535,643,986,1091,51,125,99999,Nelson County,14445,"Charlottesville, VA MSA",Nelson County,VA,40
+5112799999,757,625,678,1010,1206,51,127,99999,New Kent County,13462,"Richmond, VA HUD Metro FMR Area",New Kent County,VA,50
+5113199999,581,388,477,708,769,51,131,99999,Northampton County,13093,"Northampton County, VA",Northampton County,VA,40
+5113399999,581,388,477,708,769,51,133,99999,Northumberland County,12259,"Northumberland County, VA",Northumberland County,VA,40
+5113599999,465,387,418,660,756,51,135,99999,Nottoway County,15725,"Nottoway County, VA",Nottoway County,VA,40
+5113799999,593,387,533,863,1041,51,137,99999,Orange County,25881,"Orange County, VA",Orange County,VA,40
+5113999999,501,327,382,646,666,51,139,99999,Page County,23177,"Page County, VA",Page County,VA,40
+5114199999,392,325,354,486,500,51,141,99999,Patrick County,19407,"Patrick County, VA",Patrick County,VA,40
+5114399999,503,340,390,627,674,51,143,99999,Pittsylvania County,61745,"Danville, VA MSA",Pittsylvania County,VA,40
+5114599999,757,625,678,1010,1206,51,145,99999,Powhatan County,22377,"Richmond, VA HUD Metro FMR Area",Powhatan County,VA,50
+5114799999,564,468,469,675,904,51,147,99999,Prince Edward County,19720,"Prince Edward County, VA",Prince Edward County,VA,40
+5114999999,757,625,678,1010,1206,51,149,99999,Prince George County,33047,"Richmond, VA HUD Metro FMR Area",Prince George County,VA,50
+5115399999,1225,948,1080,1580,2068,51,153,99999,Prince William County,280813,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Prince William County,VA,50
+5115599999,452,343,363,648,696,51,155,99999,Pulaski County,35127,"Pulaski County, VA HUD Metro FMR Area",Pulaski County,VA,40
+5115799999,574,426,475,794,820,51,157,99999,Rappahannock County,6983,"Rappahannock County, VA",Rappahannock County,VA,40
+5115999999,581,388,477,708,769,51,159,99999,Richmond County,8809,"Richmond County, VA",Richmond County,VA,40
+5116199999,589,428,456,747,816,51,161,99999,Roanoke County,85778,"Roanoke, VA HUD Metro FMR Area",Roanoke County,VA,40
+5116399999,465,372,418,677,816,51,163,99999,Rockbridge County,20808,"Rockbridge County-Buena Vista city-Lexington city, VA HUD Nonmetro FMR Area",Rockbridge County,VA,40
+5116599999,586,434,482,821,843,51,165,99999,Rockingham County,67725,"Harrisonburg, VA MSA",Rockingham County,VA,40
+5116799999,440,287,380,539,555,51,167,99999,Russell County,30308,"Russell County, VA",Russell County,VA,40
+5116999999,481,360,387,645,771,51,169,99999,Scott County,23403,"Kingsport-Bristol-Bristol, TN-VA MSA",Scott County,VA,40
+5117199999,521,398,426,695,770,51,171,99999,Shenandoah County,35075,"Shenandoah County, VA",Shenandoah County,VA,40
+5117399999,404,334,363,513,664,51,173,99999,Smyth County,33081,"Smyth County, VA",Smyth County,VA,40
+5117599999,535,349,483,662,942,51,175,99999,Southampton County,17482,"Southampton County-Franklin city, VA HUD Nonmetro FMR Area",Southampton County,VA,40
+5117799999,1225,948,1080,1580,2068,51,177,99999,Spotsylvania County,90395,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Spotsylvania County,VA,50
+5117999999,1225,948,1080,1580,2068,51,179,99999,Stafford County,92446,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Stafford County,VA,50
+5118199999,811,672,706,1118,1401,51,181,99999,Surry County,6829,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Surry County,VA,50
+5118399999,757,625,678,1010,1206,51,183,99999,Sussex County,12504,"Richmond, VA HUD Metro FMR Area",Sussex County,VA,50
+5118599999,449,374,375,577,652,51,185,99999,Tazewell County,44598,"Tazewell County, VA",Tazewell County,VA,40
+5118799999,653,451,524,918,946,51,187,99999,Warren County,31584,"Warren County, VA HUD Metro FMR Area",Warren County,VA,40
+5119199999,481,360,387,645,771,51,191,99999,Washington County,51103,"Kingsport-Bristol-Bristol, TN-VA MSA",Washington County,VA,40
+5119399999,603,392,478,827,852,51,193,99999,Westmoreland County,16718,"Westmoreland County, VA",Westmoreland County,VA,40
+5119599999,434,361,368,565,712,51,195,99999,Wise County,40123,"Wise County-Norton city, VA HUD Nonmetro FMR Area",Wise County,VA,40
+5119799999,483,314,398,633,850,51,197,99999,Wythe County,27599,"Wythe County, VA",Wythe County,VA,40
+5119999999,811,672,706,1118,1401,51,199,99999,York County,56297,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",York County,VA,50
+5151099999,1225,948,1080,1580,2068,51,510,99999,Alexandria city,128283,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Alexandria city,VA,50
+5151599999,534,432,443,658,735,51,515,99999,Bedford city,6299,"Lynchburg, VA MSA",Bedford city,VA,40
+5152099999,481,360,387,645,771,51,520,99999,Bristol city,17367,"Kingsport-Bristol-Bristol, TN-VA MSA",Bristol city,VA,40
+5153099999,465,372,418,677,816,51,530,99999,Buena Vista city,6349,"Rockbridge County-Buena Vista city-Lexington city, VA HUD Nonmetro FMR Area",Buena Vista city,VA,40
+5154099999,761,535,643,986,1091,51,540,99999,Charlottesville city,45049,"Charlottesville, VA MSA",Charlottesville city,VA,40
+5155099999,811,672,706,1118,1401,51,550,99999,Chesapeake city,199184,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Chesapeake city,VA,50
+5156099999,473,307,394,575,599,51,560,99999,Clifton Forge city,4289,"Alleghany County-Clifton Forge city-Covington city, VA HUD Nonmetro FMR Area",Clifton Forge city,VA,40
+5157099999,757,625,678,1010,1206,51,570,99999,Colonial Heights city,16897,"Richmond, VA HUD Metro FMR Area",Colonial Heights city,VA,50
+5158099999,473,307,394,575,599,51,580,99999,Covington city,6303,"Alleghany County-Clifton Forge city-Covington city, VA HUD Nonmetro FMR Area",Covington city,VA,40
+5159099999,503,340,390,627,674,51,590,99999,Danville city,48411,"Danville, VA MSA",Danville city,VA,40
+5159599999,500,416,451,604,750,51,595,99999,Emporia city,5665,"Greensville County-Emporia city, VA HUD Nonmetro FMR Area",Emporia city,VA,40
+5160099999,1225,948,1080,1580,2068,51,600,99999,Fairfax city,21498,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Fairfax city,VA,50
+5161099999,1225,948,1080,1580,2068,51,610,99999,Falls Church city,10377,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Falls Church city,VA,50
+5162099999,535,349,483,662,942,51,620,99999,Franklin city,8346,"Southampton County-Franklin city, VA HUD Nonmetro FMR Area",Franklin city,VA,40
+5163099999,1225,948,1080,1580,2068,51,630,99999,Fredericksburg city,19279,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Fredericksburg city,VA,50
+5164099999,451,375,407,541,601,51,640,99999,Galax city,6837,"Carroll County-Galax city, VA HUD Nonmetro FMR Area",Galax city,VA,40
+5165099999,811,672,706,1118,1401,51,650,99999,Hampton city,146437,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Hampton city,VA,50
+5166099999,586,434,482,821,843,51,660,99999,Harrisonburg city,40468,"Harrisonburg, VA MSA",Harrisonburg city,VA,40
+5167099999,757,625,678,1010,1206,51,670,99999,Hopewell city,22354,"Richmond, VA HUD Metro FMR Area",Hopewell city,VA,50
+5167899999,465,372,418,677,816,51,678,99999,Lexington city,6867,"Rockbridge County-Buena Vista city-Lexington city, VA HUD Nonmetro FMR Area",Lexington city,VA,40
+5168099999,534,432,443,658,735,51,680,99999,Lynchburg city,65269,"Lynchburg, VA MSA",Lynchburg city,VA,40
+5168399999,1225,948,1080,1580,2068,51,683,99999,Manassas city,35135,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Manassas city,VA,50
+5168599999,1225,948,1080,1580,2068,51,685,99999,Manassas Park city,10290,"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",Manassas Park city,VA,50
+5169099999,452,348,363,579,664,51,690,99999,Martinsville city,15416,"Henry County-Martinsville city, VA HUD Nonmetro FMR Area",Martinsville city,VA,40
+5170099999,811,672,706,1118,1401,51,700,99999,Newport News city,180150,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Newport News city,VA,50
+5171099999,811,672,706,1118,1401,51,710,99999,Norfolk city,234403,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Norfolk city,VA,50
+5172099999,434,361,368,565,712,51,720,99999,Norton city,3904,"Wise County-Norton city, VA HUD Nonmetro FMR Area",Norton city,VA,40
+5173099999,757,625,678,1010,1206,51,730,99999,Petersburg city,33740,"Richmond, VA HUD Metro FMR Area",Petersburg city,VA,50
+5173599999,811,672,706,1118,1401,51,735,99999,Poquoson city,11566,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Poquoson city,VA,50
+5174099999,811,672,706,1118,1401,51,740,99999,Portsmouth city,100565,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Portsmouth city,VA,50
+5175099999,575,469,513,789,1010,51,750,99999,Radford city,15859,"Blacksburg-Christiansburg-Radford, VA HUD Metro FMR Area",Radford city,VA,40
+5176099999,757,625,678,1010,1206,51,760,99999,Richmond city,197790,"Richmond, VA HUD Metro FMR Area",Richmond city,VA,50
+5177099999,589,428,456,747,816,51,770,99999,Roanoke city,94911,"Roanoke, VA HUD Metro FMR Area",Roanoke city,VA,40
+5177599999,589,428,456,747,816,51,775,99999,Salem city,24747,"Roanoke, VA HUD Metro FMR Area",Salem city,VA,40
+5179099999,565,421,433,808,929,51,790,99999,Staunton city,23853,"Augusta County-Staunton city-Waynesboro city, VA HUD Nonmetro FMR Area",Staunton city,VA,40
+5180099999,811,672,706,1118,1401,51,800,99999,Suffolk city,63677,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Suffolk city,VA,50
+5181099999,811,672,706,1118,1401,51,810,99999,Virginia Beach city,425257,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Virginia Beach city,VA,50
+5182099999,565,421,433,808,929,51,820,99999,Waynesboro city,19520,"Augusta County-Staunton city-Waynesboro city, VA HUD Nonmetro FMR Area",Waynesboro city,VA,40
+5183099999,811,672,706,1118,1401,51,830,99999,Williamsburg city,11998,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",Williamsburg city,VA,50
+5184099999,647,472,490,893,919,51,840,99999,Winchester city,23585,"Winchester, VA HUD Metro FMR Area",Winchester city,VA,40
