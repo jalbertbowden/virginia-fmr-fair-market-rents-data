@@ -1,0 +1,122 @@
+State,CountyName,MSAName,county,fmr_area,FMRf_2005_0,FMRf_2005_1,FMRf_2005_2,FMRf_2005_3,FMRf_2005_4
+51,Albemarle County,"Charlottesville, VA MSA",3,1540,520,629,744,962,1063
+51,Fluvanna County,"Charlottesville, VA MSA",65,1540,520,629,744,962,1063
+51,Greene County,"Charlottesville, VA MSA",79,1540,520,629,744,962,1063
+51,Charlottesville city,"Charlottesville, VA MSA",540,1540,520,629,744,962,1063
+51,Clarke County,Clarke County MSA**,43,1650,843,881,1016,1214,1660
+51,Culpeper County,Culpeper County MSA**,47,1891,578,588,696,900,956
+51,Pittsylvania County,"Danville, VA MSA",143,1950,330,379,489,610,655
+51,Danville city,"Danville, VA MSA",590,1950,330,379,489,610,655
+51,Scott County,"Johnson City--Kingsport--Bristol, TN--VA MSA",169,3660,334,384,476,616,750
+51,Washington County,"Johnson City--Kingsport--Bristol, TN--VA MSA",191,3660,334,384,476,616,750
+51,Bristol city,"Johnson City--Kingsport--Bristol, TN--VA MSA",520,3660,334,384,476,616,750
+51,King George County,King George County MSA**,99,3830,583,584,702,1021,1051
+51,Amherst County,"Lynchburg, VA MSA",9,4640,428,431,520,660,729
+51,Bedford County,"Lynchburg, VA MSA",19,4640,428,431,520,660,729
+51,Campbell County,"Lynchburg, VA MSA",31,4640,428,431,520,660,729
+51,Bedford city,"Lynchburg, VA MSA",515,4640,428,431,520,660,729
+51,Lynchburg city,"Lynchburg, VA MSA",680,4640,428,431,520,660,729
+51,Gloucester County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",73,5720,653,686,788,1087,1361
+51,Isle of Wight County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",93,5720,653,686,788,1087,1361
+51,James City County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",95,5720,653,686,788,1087,1361
+51,Mathews County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",115,5720,653,686,788,1087,1361
+51,York County,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",199,5720,653,686,788,1087,1361
+51,Chesapeake city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",550,5720,653,686,788,1087,1361
+51,Hampton city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",650,5720,653,686,788,1087,1361
+51,Newport News city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",700,5720,653,686,788,1087,1361
+51,Norfolk city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",710,5720,653,686,788,1087,1361
+51,Poquoson city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",735,5720,653,686,788,1087,1361
+51,Portsmouth city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",740,5720,653,686,788,1087,1361
+51,Suffolk city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",800,5720,653,686,788,1087,1361
+51,Virginia Beach city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",810,5720,653,686,788,1087,1361
+51,Williamsburg city,"Norfolk--Virginia Beach--Newport News, VA--NC MSA",830,5720,653,686,788,1087,1361
+51,Charles City County,"Richmond--Petersburg, VA MSA",36,6760,668,721,810,1086,1301
+51,Chesterfield County,"Richmond--Petersburg, VA MSA",41,6760,668,721,810,1086,1301
+51,Dinwiddie County,"Richmond--Petersburg, VA MSA",53,6760,668,721,810,1086,1301
+51,Goochland County,"Richmond--Petersburg, VA MSA",75,6760,668,721,810,1086,1301
+51,Hanover County,"Richmond--Petersburg, VA MSA",85,6760,668,721,810,1086,1301
+51,Henrico County,"Richmond--Petersburg, VA MSA",87,6760,668,721,810,1086,1301
+51,New Kent County,"Richmond--Petersburg, VA MSA",127,6760,668,721,810,1086,1301
+51,Powhatan County,"Richmond--Petersburg, VA MSA",145,6760,668,721,810,1086,1301
+51,Prince George County,"Richmond--Petersburg, VA MSA",149,6760,668,721,810,1086,1301
+51,Colonial Heights city,"Richmond--Petersburg, VA MSA",570,6760,668,721,810,1086,1301
+51,Hopewell city,"Richmond--Petersburg, VA MSA",670,6760,668,721,810,1086,1301
+51,Petersburg city,"Richmond--Petersburg, VA MSA",730,6760,668,721,810,1086,1301
+51,Richmond city,"Richmond--Petersburg, VA MSA",760,6760,668,721,810,1086,1301
+51,Botetourt County,"Roanoke, VA MSA",23,6800,416,449,586,788,813
+51,Roanoke County,"Roanoke, VA MSA",161,6800,416,449,586,788,813
+51,Roanoke city,"Roanoke, VA MSA",770,6800,416,449,586,788,813
+51,Salem city,"Roanoke, VA MSA",775,6800,416,449,586,788,813
+51,Warren County,Warren County MSA**,187,8820,435,506,630,886,913
+51,Arlington County,"Washington, DC--MD--VA--WV PMSA",13,8840,915,1045,1187,1537,2000
+51,Fairfax County,"Washington, DC--MD--VA--WV PMSA",59,8840,915,1045,1187,1537,2000
+51,Fauquier County,"Washington, DC--MD--VA--WV PMSA",61,8840,915,1045,1187,1537,2000
+51,Loudoun County,"Washington, DC--MD--VA--WV PMSA",107,8840,915,1045,1187,1537,2000
+51,Prince William County,"Washington, DC--MD--VA--WV PMSA",153,8840,915,1045,1187,1537,2000
+51,Spotsylvania County,"Washington, DC--MD--VA--WV PMSA",177,8840,915,1045,1187,1537,2000
+51,Stafford County,"Washington, DC--MD--VA--WV PMSA",179,8840,915,1045,1187,1537,2000
+51,Alexandria city,"Washington, DC--MD--VA--WV PMSA",510,8840,915,1045,1187,1537,2000
+51,Fairfax city,"Washington, DC--MD--VA--WV PMSA",600,8840,915,1045,1187,1537,2000
+51,Falls Church city,"Washington, DC--MD--VA--WV PMSA",610,8840,915,1045,1187,1537,2000
+51,Fredericksburg city,"Washington, DC--MD--VA--WV PMSA",630,8840,915,1045,1187,1537,2000
+51,Manassas city,"Washington, DC--MD--VA--WV PMSA",683,8840,915,1045,1187,1537,2000
+51,Manassas Park city,"Washington, DC--MD--VA--WV PMSA",685,8840,915,1045,1187,1537,2000
+51,Accomack County,,1,510000001,321,439,494,600,739
+51,Alleghany County,,5,510000005,299,383,460,559,583
+51,Amelia County,,7,510000007,376,406,452,581,735
+51,Appomattox County,,11,510000011,391,413,469,581,736
+51,Augusta County,,15,510000015,409,421,549,785,903
+51,Bath County,,17,510000017,401,417,518,715,863
+51,Bland County,,21,510000021,363,376,436,556,618
+51,Brunswick County,,25,510000025,403,416,485,605,837
+51,Buchanan County,,27,510000027,363,376,436,556,618
+51,Buckingham County,,29,510000029,376,406,452,581,735
+51,Caroline County,,33,510000033,387,464,595,852,876
+51,Carroll County,,35,510000035,364,395,438,525,584
+51,Charlotte County,,37,510000037,376,406,452,581,735
+51,Craig County,,45,510000045,401,417,518,715,863
+51,Cumberland County,,49,510000049,376,406,452,581,735
+51,Dickenson County,,51,510000051,338,362,406,530,545
+51,Essex County,,57,510000057,377,465,573,780,804
+51,Floyd County,,63,510000063,430,468,519,722,914
+51,Franklin County,,67,510000067,294,352,453,542,577
+51,Frederick County,,69,510000069,439,490,647,905,931
+51,Giles County,,71,510000071,284,368,436,556,767
+51,Grayson County,,77,510000077,363,376,436,556,618
+51,Greensville County,,81,510000081,404,438,486,587,729
+51,Halifax County,,83,510000083,275,382,423,568,743
+51,Henry County,,89,510000089,338,352,439,563,645
+51,Highland County,,91,510000091,401,417,518,715,863
+51,King and Queen County,,97,510000097,377,464,565,688,709
+51,King William County,,101,510000101,377,464,565,691,711
+51,Lancaster County,,103,510000103,377,464,565,695,716
+51,Lee County,,105,510000105,250,302,386,496,525
+51,Louisa County,,109,510000109,469,532,606,725,746
+51,Lunenburg County,,111,510000111,403,416,485,605,837
+51,Madison County,,113,510000113,414,462,558,772,797
+51,Mecklenburg County,,117,510000117,307,383,472,579,772
+51,Middlesex County,,119,510000119,377,464,565,688,709
+51,Montgomery County,,121,510000121,456,499,559,767,982
+51,Nelson County,,125,510000125,401,417,518,715,863
+51,Northampton County,,131,510000131,377,464,565,688,709
+51,Northumberland County,,133,510000133,377,464,565,688,709
+51,Nottoway County,,135,510000135,376,406,452,642,735
+51,Orange County,,137,510000137,376,517,576,838,1011
+51,Page County,,139,510000139,318,371,487,628,647
+51,Patrick County,,141,510000141,316,344,381,472,486
+51,Prince Edward County,,147,510000147,455,456,548,656,878
+51,Pulaski County,,155,510000155,333,352,439,629,676
+51,Rappahannock County,,157,510000157,414,462,558,772,797
+51,Richmond County,,159,510000159,377,464,565,688,709
+51,Rockbridge County,,163,510000163,361,406,452,658,793
+51,Rockingham County,,165,510000165,421,468,569,797,819
+51,Russell County,,167,510000167,279,370,428,524,540
+51,Shenandoah County,,171,510000171,386,414,506,675,748
+51,Smyth County,,173,510000173,325,353,393,499,646
+51,Southampton County,,175,510000175,339,469,520,643,915
+51,Surry County,,181,510000181,403,416,485,605,837
+51,Sussex County,,183,510000183,403,416,485,615,837
+51,Tazewell County,,185,510000185,363,364,436,560,633
+51,Westmoreland County,,193,510000193,381,464,586,804,828
+51,Wise County,,195,510000195,351,358,422,549,692
+51,Wythe County,,197,510000197,305,386,469,615,825
