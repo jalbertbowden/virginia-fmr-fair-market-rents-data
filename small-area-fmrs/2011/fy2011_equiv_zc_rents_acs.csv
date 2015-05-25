@@ -1,0 +1,701 @@
+cbsamet,state,county,zip,County_Name,CBSA_Name,area_rent_br0,area_rent_br1,area_rent_br2,area_rent_br3,area_rent_br4
+16820,51,003,22901,Albemarle County,"Charlottesville, VA MSA",670,810,960,1240,1380
+16820,51,003,22902,Albemarle County,"Charlottesville, VA MSA",630,750,890,1150,1280
+16820,51,003,22903,Albemarle County,"Charlottesville, VA MSA",640,770,910,1180,1300
+16820,51,003,22911,Albemarle County,"Charlottesville, VA MSA",790,950,1130,1460,1620
+16820,51,003,22920,Albemarle County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,003,22923,Albemarle County,"Charlottesville, VA MSA",650,780,920,1190,1320
+16820,51,003,22931,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22932,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22935,Albemarle County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,003,22936,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22937,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22940,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22942,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22943,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22946,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22947,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,22959,Albemarle County,"Charlottesville, VA MSA",650,780,920,1190,1320
+16820,51,003,22968,Albemarle County,"Charlottesville, VA MSA",630,760,900,1170,1290
+16820,51,003,22969,Albemarle County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,003,22974,Albemarle County,"Charlottesville, VA MSA",630,750,890,1150,1280
+16820,51,003,24562,Albemarle County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,003,24590,Albemarle County,"Charlottesville, VA MSA",590,710,840,1090,1200
+40060,51,007,23002,Amelia County,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,007,23083,Amelia County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,007,23833,Amelia County,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,007,23850,Amelia County,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,007,23966,Amelia County,"Richmond, VA MSA",670,730,810,1080,1270
+31340,51,009,22922,Amherst County,"Lynchburg, VA MSA",500,510,620,760,850
+31340,51,009,22967,Amherst County,"Lynchburg, VA MSA",500,510,620,760,850
+31340,51,009,24483,Amherst County,"Lynchburg, VA MSA",500,510,620,760,850
+31340,51,009,24521,Amherst County,"Lynchburg, VA MSA",500,510,620,760,850
+31340,51,009,24553,Amherst County,"Lynchburg, VA MSA",500,510,620,760,850
+31340,51,009,24572,Amherst County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,009,24574,Amherst County,"Lynchburg, VA MSA",500,510,620,760,850
+31340,51,009,24595,Amherst County,"Lynchburg, VA MSA",500,510,620,760,850
+31340,51,011,23958,Appomattox County,"Lynchburg, VA MSA",480,490,590,730,810
+31340,51,011,24522,Appomattox County,"Lynchburg, VA MSA",480,490,590,730,810
+31340,51,011,24538,Appomattox County,"Lynchburg, VA MSA",580,600,720,890,990
+31340,51,011,24593,Appomattox County,"Lynchburg, VA MSA",480,490,590,730,810
+47900,51,013,22101,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1450,1650,2110,2760
+47900,51,013,22201,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1380,1560,1780,2270,2980
+47900,51,013,22202,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1520,1710,1950,2490,3270
+47900,51,013,22203,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1370,1540,1760,2250,2950
+47900,51,013,22204,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1040,1180,1340,1710,2240
+47900,51,013,22205,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1450,1650,2110,2760
+47900,51,013,22206,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1310,1470,1680,2150,2810
+47900,51,013,22207,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1450,1650,2110,2760
+47900,51,013,22209,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1250,1410,1610,2060,2700
+47900,51,013,22211,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1450,1650,2110,2760
+47900,51,013,22213,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1450,1650,2110,2760
+47900,51,013,22214,Arlington County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1450,1650,2110,2760
+31340,51,019,24064,Bedford County,"Lynchburg, VA MSA",650,660,800,990,1100
+31340,51,019,24095,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24101,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24104,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24121,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24122,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24139,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24174,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24179,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24503,Bedford County,"Lynchburg, VA MSA",570,580,700,860,960
+31340,51,019,24523,Bedford County,"Lynchburg, VA MSA",570,580,700,860,960
+31340,51,019,24526,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24536,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24550,Bedford County,"Lynchburg, VA MSA",490,500,600,740,830
+31340,51,019,24551,Bedford County,"Lynchburg, VA MSA",480,490,590,730,810
+31340,51,019,24556,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24570,Bedford County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,019,24571,Bedford County,"Lynchburg, VA MSA",490,500,600,740,830
+40220,51,023,24019,Botetourt County,"Roanoke, VA MSA",580,620,800,1010,1110
+40220,51,023,24064,Botetourt County,"Roanoke, VA MSA",580,620,800,1010,1110
+40220,51,023,24066,Botetourt County,"Roanoke, VA MSA",530,570,730,920,1010
+40220,51,023,24077,Botetourt County,"Roanoke, VA MSA",530,570,730,920,1010
+40220,51,023,24083,Botetourt County,"Roanoke, VA MSA",530,570,730,920,1010
+40220,51,023,24085,Botetourt County,"Roanoke, VA MSA",530,570,730,920,1010
+40220,51,023,24090,Botetourt County,"Roanoke, VA MSA",530,570,730,920,1010
+40220,51,023,24175,Botetourt County,"Roanoke, VA MSA",580,620,800,1010,1110
+40220,51,023,24422,Botetourt County,"Roanoke, VA MSA",530,570,730,920,1010
+31340,51,031,24501,Campbell County,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,031,24502,Campbell County,"Lynchburg, VA MSA",560,570,690,850,950
+31340,51,031,24504,Campbell County,"Lynchburg, VA MSA",530,550,660,810,910
+31340,51,031,24517,Campbell County,"Lynchburg, VA MSA",480,490,590,730,810
+31340,51,031,24528,Campbell County,"Lynchburg, VA MSA",480,490,590,730,810
+31340,51,031,24538,Campbell County,"Lynchburg, VA MSA",580,600,720,890,990
+31340,51,031,24550,Campbell County,"Lynchburg, VA MSA",490,500,600,740,830
+31340,51,031,24551,Campbell County,"Lynchburg, VA MSA",480,490,590,730,810
+31340,51,031,24554,Campbell County,"Lynchburg, VA MSA",480,490,590,730,810
+31340,51,031,24569,Campbell County,"Lynchburg, VA MSA",480,490,590,730,810
+31340,51,031,24571,Campbell County,"Lynchburg, VA MSA",490,500,600,740,830
+31340,51,031,24588,Campbell County,"Lynchburg, VA MSA",480,490,590,730,810
+40060,51,033,22408,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,22427,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,22436,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,22438,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,22514,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,22535,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,22538,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,22546,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,22580,Caroline County,"Richmond, VA MSA",800,860,960,1280,1500
+40060,51,033,23015,Caroline County,"Richmond, VA MSA",810,880,980,1310,1530
+40060,51,033,23047,Caroline County,"Richmond, VA MSA",810,880,980,1310,1530
+40060,51,033,23069,Caroline County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,036,23030,Charles City County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,036,23140,Charles City County,"Richmond, VA MSA",750,810,900,1200,1410
+40060,51,036,23185,Charles City County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,041,23112,Chesterfield County,"Richmond, VA MSA",890,960,1070,1430,1680
+40060,51,041,23113,Chesterfield County,"Richmond, VA MSA",910,990,1100,1470,1720
+40060,51,041,23114,Chesterfield County,"Richmond, VA MSA",930,1010,1120,1500,1750
+40060,51,041,23120,Chesterfield County,"Richmond, VA MSA",810,870,970,1290,1520
+40060,51,041,23224,Chesterfield County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,041,23225,Chesterfield County,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,041,23234,Chesterfield County,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,041,23235,Chesterfield County,"Richmond, VA MSA",880,950,1060,1420,1660
+40060,51,041,23236,Chesterfield County,"Richmond, VA MSA",910,990,1100,1470,1720
+40060,51,041,23237,Chesterfield County,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,041,23803,Chesterfield County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,041,23831,Chesterfield County,"Richmond, VA MSA",840,910,1010,1350,1580
+40060,51,041,23832,Chesterfield County,"Richmond, VA MSA",910,990,1100,1470,1720
+40060,51,041,23834,Chesterfield County,"Richmond, VA MSA",700,750,840,1120,1320
+40060,51,041,23836,Chesterfield County,"Richmond, VA MSA",850,920,1020,1360,1600
+40060,51,041,23838,Chesterfield County,"Richmond, VA MSA",820,890,990,1320,1550
+47900,51,043,20130,Clarke County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,043,20135,Clarke County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,043,22611,Clarke County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,043,22620,Clarke County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,043,22646,Clarke County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,043,22663,Clarke County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+40220,51,045,24070,Craig County,"Roanoke, VA MSA",500,530,690,870,950
+40220,51,045,24127,Craig County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,045,24128,Craig County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,045,24131,Craig County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,045,24426,Craig County,"Roanoke, VA MSA",470,500,650,820,900
+40060,51,049,23027,Cumberland County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,049,23038,Cumberland County,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,049,23040,Cumberland County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,049,23123,Cumberland County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,049,23901,Cumberland County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,049,23936,Cumberland County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,053,23803,Dinwiddie County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,053,23805,Dinwiddie County,"Richmond, VA MSA",690,750,830,1110,1300
+40060,51,053,23824,Dinwiddie County,"Richmond, VA MSA",720,780,870,1160,1360
+40060,51,053,23830,Dinwiddie County,"Richmond, VA MSA",880,950,1060,1420,1660
+40060,51,053,23833,Dinwiddie County,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,053,23840,Dinwiddie County,"Richmond, VA MSA",720,780,870,1160,1360
+40060,51,053,23841,Dinwiddie County,"Richmond, VA MSA",720,780,870,1160,1360
+40060,51,053,23850,Dinwiddie County,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,053,23872,Dinwiddie County,"Richmond, VA MSA",720,780,870,1160,1360
+40060,51,053,23882,Dinwiddie County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,053,23885,Dinwiddie County,"Richmond, VA MSA",720,780,870,1160,1360
+40060,51,053,23894,Dinwiddie County,"Richmond, VA MSA",720,780,870,1160,1360
+47900,51,059,20120,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1330,1500,1710,2190,2860
+47900,51,059,20121,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,059,20124,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,20151,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1210,1370,1560,1990,2610
+47900,51,059,20170,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1310,1470,1680,2150,2810
+47900,51,059,20171,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1360,1530,1750,2240,2930
+47900,51,059,20190,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1180,1330,1520,1940,2550
+47900,51,059,20191,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1100,1250,1420,1810,2380
+47900,51,059,20194,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1450,1630,1860,2380,3120
+47900,51,059,22003,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1180,1330,1520,1940,2550
+47900,51,059,22015,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1560,1760,2010,2570,3370
+47900,51,059,22027,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22030,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1360,1530,1750,2240,2930
+47900,51,059,22031,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22032,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22033,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,059,22039,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22041,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1060,1190,1360,1740,2280
+47900,51,059,22042,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1170,1320,1510,1930,2530
+47900,51,059,22043,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1320,1490,1700,2170,2850
+47900,51,059,22044,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1060,1190,1360,1740,2280
+47900,51,059,22046,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1090,1230,1400,1790,2350
+47900,51,059,22060,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22066,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22079,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1260,1420,1620,2070,2710
+47900,51,059,22101,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22102,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1380,1560,1780,2270,2980
+47900,51,059,22121,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22124,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1430,1610,1840,2350,3080
+47900,51,059,22150,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1210,1360,1550,1980,2600
+47900,51,059,22151,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22152,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1480,1670,1900,2430,3180
+47900,51,059,22153,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1560,1760,2010,2570,3370
+47900,51,059,22180,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1440,1620,1850,2360,3100
+47900,51,059,22181,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22182,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22213,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22303,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1070,1210,1380,1760,2310
+47900,51,059,22306,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,059,22307,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1220,1380,1570,2010,2630
+47900,51,059,22308,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,059,22309,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1110,1250,1430,1830,2400
+47900,51,059,22310,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1400,1580,1800,2300,3020
+47900,51,059,22311,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1080,1220,1390,1780,2330
+47900,51,059,22312,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1160,1310,1490,1900,2500
+47900,51,059,22315,Fairfax County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1520,1720,1960,2500,3280
+47900,51,061,20106,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20115,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20117,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,061,20119,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20130,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,061,20137,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1020,1150,1310,1670,2190
+47900,51,061,20139,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20144,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20169,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20181,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1100,1250,1420,1810,2380
+47900,51,061,20184,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20186,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20187,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,20198,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,22639,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,22642,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,061,22643,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,22712,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,22720,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1230,1390,1580,2020,2650
+47900,51,061,22728,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,22734,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+47900,51,061,22742,Fauquier County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1120,1280,1640,2140
+16820,51,065,22947,Fluvanna County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,065,22963,Fluvanna County,"Charlottesville, VA MSA",790,950,1120,1450,1610
+16820,51,065,22974,Fluvanna County,"Charlottesville, VA MSA",630,750,890,1150,1280
+16820,51,065,23022,Fluvanna County,"Charlottesville, VA MSA",620,740,880,1140,1260
+16820,51,065,23038,Fluvanna County,"Charlottesville, VA MSA",620,740,880,1140,1260
+16820,51,065,23055,Fluvanna County,"Charlottesville, VA MSA",620,740,880,1140,1260
+16820,51,065,23084,Fluvanna County,"Charlottesville, VA MSA",620,740,880,1140,1260
+16820,51,065,23093,Fluvanna County,"Charlottesville, VA MSA",620,740,880,1140,1260
+16820,51,065,24590,Fluvanna County,"Charlottesville, VA MSA",590,710,840,1090,1200
+40220,51,067,24055,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24065,Franklin County,"Roanoke, VA MSA",510,540,700,890,970
+40220,51,067,24067,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24088,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24092,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24101,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24102,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24112,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24121,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24137,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24151,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24176,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,067,24184,Franklin County,"Roanoke, VA MSA",470,500,650,820,900
+49020,51,069,22601,Frederick County,"Winchester, VA-WV MSA",550,580,760,1050,1080
+49020,51,069,22602,Frederick County,"Winchester, VA-WV MSA",610,630,830,1150,1180
+49020,51,069,22603,Frederick County,"Winchester, VA-WV MSA",700,730,960,1320,1360
+49020,51,069,22624,Frederick County,"Winchester, VA-WV MSA",660,690,910,1260,1290
+49020,51,069,22625,Frederick County,"Winchester, VA-WV MSA",660,690,910,1260,1290
+49020,51,069,22630,Frederick County,"Winchester, VA-WV MSA",660,690,910,1260,1290
+49020,51,069,22637,Frederick County,"Winchester, VA-WV MSA",660,690,910,1260,1290
+49020,51,069,22645,Frederick County,"Winchester, VA-WV MSA",660,690,910,1260,1290
+49020,51,069,22654,Frederick County,"Winchester, VA-WV MSA",660,690,910,1260,1290
+49020,51,069,22655,Frederick County,"Winchester, VA-WV MSA",700,730,960,1320,1360
+49020,51,069,22656,Frederick County,"Winchester, VA-WV MSA",660,690,910,1260,1290
+49020,51,069,22663,Frederick County,"Winchester, VA-WV MSA",660,690,910,1260,1290
+13980,51,071,24086,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,071,24093,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,071,24124,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,071,24128,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,071,24134,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,071,24136,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,071,24147,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,071,24150,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,071,24167,Giles County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+47260,51,073,23003,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,073,23050,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,073,23061,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,073,23062,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,073,23072,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,073,23107,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,073,23128,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,073,23149,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,073,23184,Gloucester County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+40060,51,075,23038,Goochland County,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,075,23039,Goochland County,"Richmond, VA MSA",820,890,990,1320,1550
+40060,51,075,23063,Goochland County,"Richmond, VA MSA",820,890,990,1320,1550
+40060,51,075,23065,Goochland County,"Richmond, VA MSA",750,810,900,1200,1410
+40060,51,075,23084,Goochland County,"Richmond, VA MSA",760,830,920,1230,1440
+40060,51,075,23102,Goochland County,"Richmond, VA MSA",890,960,1070,1430,1680
+40060,51,075,23103,Goochland County,"Richmond, VA MSA",820,890,990,1320,1550
+40060,51,075,23129,Goochland County,"Richmond, VA MSA",820,890,990,1320,1550
+40060,51,075,23146,Goochland County,"Richmond, VA MSA",810,880,980,1310,1530
+40060,51,075,23153,Goochland County,"Richmond, VA MSA",820,890,990,1320,1550
+40060,51,075,23238,Goochland County,"Richmond, VA MSA",810,870,970,1290,1520
+16820,51,079,22923,Greene County,"Charlottesville, VA MSA",650,780,920,1190,1320
+16820,51,079,22935,Greene County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,079,22940,Greene County,"Charlottesville, VA MSA",680,820,970,1260,1390
+16820,51,079,22968,Greene County,"Charlottesville, VA MSA",630,760,900,1170,1290
+16820,51,079,22973,Greene County,"Charlottesville, VA MSA",630,760,900,1170,1290
+40060,51,085,23005,Hanover County,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,085,23015,Hanover County,"Richmond, VA MSA",810,880,980,1310,1530
+40060,51,085,23047,Hanover County,"Richmond, VA MSA",810,880,980,1310,1530
+40060,51,085,23059,Hanover County,"Richmond, VA MSA",960,1040,1160,1550,1820
+40060,51,085,23069,Hanover County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,085,23102,Hanover County,"Richmond, VA MSA",890,960,1070,1430,1680
+40060,51,085,23111,Hanover County,"Richmond, VA MSA",890,960,1070,1430,1680
+40060,51,085,23116,Hanover County,"Richmond, VA MSA",900,980,1090,1460,1710
+40060,51,085,23146,Hanover County,"Richmond, VA MSA",810,880,980,1310,1530
+40060,51,085,23192,Hanover County,"Richmond, VA MSA",880,950,1060,1420,1660
+40060,51,087,23059,Henrico County,"Richmond, VA MSA",960,1040,1160,1550,1820
+40060,51,087,23060,Henrico County,"Richmond, VA MSA",890,960,1070,1430,1680
+40060,51,087,23075,Henrico County,"Richmond, VA MSA",780,840,940,1250,1470
+40060,51,087,23150,Henrico County,"Richmond, VA MSA",810,870,970,1290,1520
+40060,51,087,23222,Henrico County,"Richmond, VA MSA",710,770,860,1150,1350
+40060,51,087,23223,Henrico County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,087,23226,Henrico County,"Richmond, VA MSA",900,970,1080,1440,1690
+40060,51,087,23227,Henrico County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,087,23228,Henrico County,"Richmond, VA MSA",750,810,900,1200,1410
+40060,51,087,23229,Henrico County,"Richmond, VA MSA",760,830,920,1230,1440
+40060,51,087,23230,Henrico County,"Richmond, VA MSA",710,770,860,1150,1350
+40060,51,087,23231,Henrico County,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,087,23233,Henrico County,"Richmond, VA MSA",910,990,1100,1470,1720
+40060,51,087,23238,Henrico County,"Richmond, VA MSA",810,870,970,1290,1520
+40060,51,087,23250,Henrico County,"Richmond, VA MSA",780,840,940,1250,1470
+40060,51,087,23294,Henrico County,"Richmond, VA MSA",800,860,960,1280,1500
+47260,51,093,23314,Isle of Wight County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,093,23315,Isle of Wight County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,093,23430,Isle of Wight County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,093,23487,Isle of Wight County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,093,23851,Isle of Wight County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,093,23866,Isle of Wight County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,093,23898,Isle of Wight County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,095,23089,James City County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",960,1000,1160,1590,1910
+47260,51,095,23168,James City County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",880,920,1060,1450,1750
+47260,51,095,23185,James City County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",810,850,980,1340,1620
+47260,51,095,23188,James City County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",890,920,1070,1460,1760
+40060,51,097,22560,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23023,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23085,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23091,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23108,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23110,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23126,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23148,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23149,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23156,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23161,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,097,23177,King and Queen County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,101,23009,King William County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,101,23069,King William County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,101,23086,King William County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,101,23106,King William County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,101,23177,King William County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,101,23181,King William County,"Richmond, VA MSA",670,730,810,1080,1270
+47900,51,107,20105,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20117,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,107,20129,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20132,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1050,1180,1350,1730,2260
+47900,51,107,20135,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,107,20141,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20142,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20147,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1270,1430,1630,2080,2730
+47900,51,107,20148,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20152,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20158,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20159,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20164,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1220,1380,1570,2010,2630
+47900,51,107,20165,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1450,1630,1860,2380,3120
+47900,51,107,20166,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20175,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20176,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1180,1330,1520,1940,2550
+47900,51,107,20180,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20184,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20189,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,20197,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+47900,51,107,22066,Loudoun County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1290,1460,1660,2120,2780
+40060,51,109,22942,Louisa County,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,109,22947,Louisa County,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,109,22974,Louisa County,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,109,23024,Louisa County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,109,23065,Louisa County,"Richmond, VA MSA",750,810,900,1200,1410
+40060,51,109,23084,Louisa County,"Richmond, VA MSA",760,830,920,1230,1440
+40060,51,109,23093,Louisa County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,109,23102,Louisa County,"Richmond, VA MSA",890,960,1070,1430,1680
+40060,51,109,23117,Louisa County,"Richmond, VA MSA",680,740,820,1090,1280
+47260,51,115,23021,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23025,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23035,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23045,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23050,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23056,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23064,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23066,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23068,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23076,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23109,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23119,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23125,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23128,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23130,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23138,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,115,23163,Mathews County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+13980,51,121,24059,Montgomery County,"Blacksburg-Christiansburg-Radford, VA MSA",590,640,710,990,1250
+13980,51,121,24060,Montgomery County,"Blacksburg-Christiansburg-Radford, VA MSA",620,670,740,1030,1300
+13980,51,121,24073,Montgomery County,"Blacksburg-Christiansburg-Radford, VA MSA",520,560,620,860,1090
+13980,51,121,24087,Montgomery County,"Blacksburg-Christiansburg-Radford, VA MSA",590,640,710,990,1250
+13980,51,121,24138,Montgomery County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,121,24141,Montgomery County,"Blacksburg-Christiansburg-Radford, VA MSA",520,560,620,860,1090
+13980,51,121,24149,Montgomery County,"Blacksburg-Christiansburg-Radford, VA MSA",520,560,620,860,1090
+13980,51,121,24162,Montgomery County,"Blacksburg-Christiansburg-Radford, VA MSA",590,640,710,990,1250
+16820,51,125,22920,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22922,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22938,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22949,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22952,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22958,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22964,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22967,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22969,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22971,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,22976,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,24464,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,24483,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,24521,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,24553,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,24562,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,24581,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+16820,51,125,24599,Nelson County,"Charlottesville, VA MSA",590,710,840,1090,1200
+40060,51,127,23011,New Kent County,"Richmond, VA MSA",810,870,970,1290,1520
+40060,51,127,23089,New Kent County,"Richmond, VA MSA",950,1020,1140,1520,1790
+40060,51,127,23124,New Kent County,"Richmond, VA MSA",730,790,880,1170,1380
+40060,51,127,23140,New Kent County,"Richmond, VA MSA",750,810,900,1200,1410
+40060,51,127,23141,New Kent County,"Richmond, VA MSA",810,870,970,1290,1520
+40060,51,127,23181,New Kent County,"Richmond, VA MSA",670,730,810,1080,1270
+19260,51,143,24054,Pittsylvania County,"Danville, VA MSA",490,570,730,910,980
+19260,51,143,24069,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24137,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24139,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24161,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24527,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24530,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24531,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24540,Pittsylvania County,"Danville, VA MSA",430,500,640,800,860
+19260,51,143,24541,Pittsylvania County,"Danville, VA MSA",430,490,630,790,840
+19260,51,143,24549,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24557,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24563,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24565,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24566,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24569,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24586,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24592,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24594,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+19260,51,143,24597,Pittsylvania County,"Danville, VA MSA",400,460,590,740,790
+40060,51,145,23113,Powhatan County,"Richmond, VA MSA",910,990,1100,1470,1720
+40060,51,145,23120,Powhatan County,"Richmond, VA MSA",810,870,970,1290,1520
+40060,51,145,23139,Powhatan County,"Richmond, VA MSA",730,790,880,1170,1380
+40060,51,149,23801,Prince George County,"Richmond, VA MSA",780,840,940,1250,1470
+40060,51,149,23805,Prince George County,"Richmond, VA MSA",690,750,830,1110,1300
+40060,51,149,23830,Prince George County,"Richmond, VA MSA",880,950,1060,1420,1660
+40060,51,149,23842,Prince George County,"Richmond, VA MSA",770,840,930,1240,1460
+40060,51,149,23860,Prince George County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,149,23875,Prince George County,"Richmond, VA MSA",780,840,940,1250,1470
+40060,51,149,23881,Prince George County,"Richmond, VA MSA",780,840,940,1250,1470
+47900,51,153,20109,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1100,1250,1420,1810,2380
+47900,51,153,20110,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1060,1190,1360,1740,2280
+47900,51,153,20111,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1140,1280,1460,1870,2450
+47900,51,153,20112,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1130,1270,1450,1850,2430
+47900,51,153,20136,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1130,1270,1450,1850,2430
+47900,51,153,20137,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1020,1150,1310,1670,2190
+47900,51,153,20143,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1130,1270,1450,1850,2430
+47900,51,153,20155,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1130,1270,1450,1850,2430
+47900,51,153,20169,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1130,1270,1450,1850,2430
+47900,51,153,20181,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1100,1250,1420,1810,2380
+47900,51,153,22025,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1580,1780,2030,2590,3400
+47900,51,153,22026,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1070,1210,1380,1760,2310
+47900,51,153,22125,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1130,1270,1450,1850,2430
+47900,51,153,22134,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1130,1270,1450,1850,2430
+47900,51,153,22172,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,153,22191,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1070,1200,1370,1750,2290
+47900,51,153,22192,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1200,1350,1540,1970,2580
+47900,51,153,22193,Prince William County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1170,1320,1500,1920,2510
+13980,51,155,24058,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,155,24084,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,155,24126,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,155,24132,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,155,24141,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",520,560,620,860,1090
+13980,51,155,24301,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,155,24313,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,155,24324,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+13980,51,155,24347,Pulaski County,"Blacksburg-Christiansburg-Radford, VA MSA",500,540,600,830,1050
+40220,51,161,24012,Roanoke County,"Roanoke, VA MSA",520,550,710,900,980
+40220,51,161,24014,Roanoke County,"Roanoke, VA MSA",520,560,720,910,1000
+40220,51,161,24018,Roanoke County,"Roanoke, VA MSA",580,620,800,1010,1110
+40220,51,161,24019,Roanoke County,"Roanoke, VA MSA",580,620,800,1010,1110
+40220,51,161,24059,Roanoke County,"Roanoke, VA MSA",560,600,770,980,1060
+40220,51,161,24065,Roanoke County,"Roanoke, VA MSA",510,540,700,890,970
+40220,51,161,24070,Roanoke County,"Roanoke, VA MSA",500,530,690,870,950
+40220,51,161,24079,Roanoke County,"Roanoke, VA MSA",560,600,770,980,1060
+40220,51,161,24087,Roanoke County,"Roanoke, VA MSA",560,600,770,980,1060
+40220,51,161,24153,Roanoke County,"Roanoke, VA MSA",540,570,740,940,1020
+40220,51,161,24179,Roanoke County,"Roanoke, VA MSA",470,500,650,820,900
+25500,51,165,22801,Rockingham County,"Harrisonburg, VA MSA",610,670,820,1150,1180
+25500,51,165,22802,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22811,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22812,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22815,Rockingham County,"Harrisonburg, VA MSA",490,540,660,920,950
+25500,51,165,22820,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22821,Rockingham County,"Harrisonburg, VA MSA",480,530,650,910,940
+25500,51,165,22827,Rockingham County,"Harrisonburg, VA MSA",480,530,650,910,940
+25500,51,165,22830,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22831,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22832,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22834,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22840,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22841,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22844,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22846,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22848,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22849,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22850,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,22853,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,24441,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,24471,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,165,24486,Rockingham County,"Harrisonburg, VA MSA",510,570,690,970,990
+28700,51,169,24230,Scott County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,169,24244,Scott County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,169,24245,Scott County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,169,24250,Scott County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,169,24251,Scott County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,169,24258,Scott County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,169,24271,Scott County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,169,24290,Scott County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+47900,51,177,22407,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,177,22408,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1190,1340,1530,1960,2560
+47900,51,177,22508,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1130,1290,1650,2160
+47900,51,177,22534,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1130,1290,1650,2160
+47900,51,177,22551,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1130,1290,1650,2160
+47900,51,177,22553,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1040,1180,1340,1710,2240
+47900,51,177,22567,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1130,1290,1650,2160
+47900,51,177,22580,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1130,1290,1650,2160
+47900,51,177,22960,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1130,1290,1650,2160
+47900,51,177,23015,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1130,1290,1650,2160
+47900,51,177,23024,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,177,23117,Spotsylvania County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1000,1130,1290,1650,2160
+47900,51,179,22405,Stafford County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1070,1210,1380,1760,2310
+47900,51,179,22406,Stafford County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1010,1140,1300,1660,2180
+47900,51,179,22554,Stafford County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1170,1320,1500,1920,2510
+47900,51,179,22556,Stafford County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1080,1220,1390,1780,2330
+47260,51,181,23839,Surry County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,181,23842,Surry County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,181,23846,Surry County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,181,23881,Surry County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,181,23883,Surry County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,181,23888,Surry County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,181,23890,Surry County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,181,23899,Surry County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+40060,51,183,23830,Sussex County,"Richmond, VA MSA",880,950,1060,1420,1660
+40060,51,183,23837,Sussex County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,183,23842,Sussex County,"Richmond, VA MSA",770,840,930,1240,1460
+40060,51,183,23847,Sussex County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,183,23867,Sussex County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,183,23878,Sussex County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,183,23882,Sussex County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,183,23888,Sussex County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,183,23890,Sussex County,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,183,23897,Sussex County,"Richmond, VA MSA",670,730,810,1080,1270
+47900,51,187,22610,Warren County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,187,22630,Warren County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,187,22642,Warren County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,187,22645,Warren County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,187,22649,Warren County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,187,22655,Warren County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47900,51,187,22657,Warren County,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+28700,51,191,24202,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,191,24210,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",490,520,650,870,1040
+28700,51,191,24211,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",490,530,660,880,1060
+28700,51,191,24236,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",580,620,770,1030,1230
+28700,51,191,24258,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,191,24270,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",470,510,630,840,1010
+28700,51,191,24319,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",470,510,630,840,1010
+28700,51,191,24340,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+28700,51,191,24361,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",470,510,630,840,1010
+28700,51,191,24370,Washington County,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+47260,51,199,23185,York County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",810,850,980,1340,1620
+47260,51,199,23188,York County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",890,920,1070,1460,1760
+47260,51,199,23665,York County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",1030,1070,1240,1700,2040
+47260,51,199,23690,York County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",960,1000,1160,1590,1910
+47260,51,199,23691,York County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",960,1000,1160,1590,1910
+47260,51,199,23692,York County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",1010,1050,1220,1670,2010
+47260,51,199,23693,York County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",980,1020,1180,1610,1940
+47260,51,199,23696,York County,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",960,1000,1160,1590,1910
+47900,51,510,22301,Alexandria city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1100,1250,1420,1810,2380
+47900,51,510,22302,Alexandria city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1140,1280,1460,1870,2450
+47900,51,510,22304,Alexandria city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1140,1290,1470,1880,2460
+47900,51,510,22305,Alexandria city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",990,1110,1270,1620,2130
+47900,51,510,22311,Alexandria city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1080,1220,1390,1780,2330
+47900,51,510,22312,Alexandria city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1160,1310,1490,1900,2500
+47900,51,510,22314,Alexandria city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1270,1430,1630,2080,2730
+31340,51,515,24523,Bedford city,"Lynchburg, VA MSA",570,580,700,860,960
+28700,51,520,24201,Bristol city,"Kingsport-Bristol-Bristol, TN-VA MSA",460,500,620,830,990
+28700,51,520,24202,Bristol city,"Kingsport-Bristol-Bristol, TN-VA MSA",440,470,590,790,950
+16820,51,540,22901,Charlottesville city,"Charlottesville, VA MSA",670,810,960,1240,1380
+16820,51,540,22902,Charlottesville city,"Charlottesville, VA MSA",630,750,890,1150,1280
+16820,51,540,22903,Charlottesville city,"Charlottesville, VA MSA",640,770,910,1180,1300
+16820,51,540,22904,Charlottesville city,"Charlottesville, VA MSA",610,740,870,1130,1250
+47260,51,550,23320,Chesapeake city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",890,920,1070,1460,1760
+47260,51,550,23321,Chesapeake city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",870,910,1050,1440,1730
+47260,51,550,23322,Chesapeake city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",830,860,1000,1370,1650
+47260,51,550,23323,Chesapeake city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",800,840,970,1330,1600
+47260,51,550,23324,Chesapeake city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,550,23325,Chesapeake city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",890,920,1070,1460,1760
+40060,51,570,23834,Colonial Heights city,"Richmond, VA MSA",700,750,840,1120,1320
+19260,51,590,24540,Danville city,"Danville, VA MSA",430,500,640,800,860
+19260,51,590,24541,Danville city,"Danville, VA MSA",430,490,630,790,840
+47900,51,600,22030,Fairfax city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1360,1530,1750,2240,2930
+47900,51,600,22031,Fairfax city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1280,1440,1640,2100,2750
+47900,51,610,22044,Falls Church city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1060,1190,1360,1740,2280
+47900,51,610,22046,Falls Church city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1090,1230,1400,1790,2350
+47900,51,610,22213,Falls Church city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1210,1360,1550,1980,2600
+47900,51,630,22401,Fredericksburg city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",980,1110,1260,1610,2110
+47260,51,650,23605,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,650,23651,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",770,800,930,1270,1530
+47260,51,650,23661,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",770,800,930,1270,1530
+47260,51,650,23663,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",770,800,930,1270,1530
+47260,51,650,23664,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,650,23665,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",1030,1070,1240,1700,2040
+47260,51,650,23666,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",800,830,960,1310,1580
+47260,51,650,23667,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",770,800,930,1270,1530
+47260,51,650,23669,Hampton city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",730,760,880,1200,1450
+25500,51,660,22801,Harrisonburg city,"Harrisonburg, VA MSA",610,670,820,1150,1180
+25500,51,660,22802,Harrisonburg city,"Harrisonburg, VA MSA",510,570,690,970,990
+25500,51,660,22807,Harrisonburg city,"Harrisonburg, VA MSA",550,610,740,1040,1060
+40060,51,670,23860,Hopewell city,"Richmond, VA MSA",670,730,810,1080,1270
+31340,51,680,24501,Lynchburg city,"Lynchburg, VA MSA",520,530,640,790,880
+31340,51,680,24502,Lynchburg city,"Lynchburg, VA MSA",560,570,690,850,950
+31340,51,680,24503,Lynchburg city,"Lynchburg, VA MSA",570,580,700,860,960
+31340,51,680,24504,Lynchburg city,"Lynchburg, VA MSA",530,550,660,810,910
+47900,51,683,20110,Manassas city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1060,1190,1360,1740,2280
+47900,51,685,20111,Manassas Park city,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",1140,1280,1460,1870,2450
+47260,51,700,23601,Newport News city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,700,23602,Newport News city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",820,860,990,1350,1630
+47260,51,700,23603,Newport News city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",750,780,900,1230,1480
+47260,51,700,23604,Newport News city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",990,1040,1200,1640,1980
+47260,51,700,23605,Newport News city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,700,23606,Newport News city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",760,790,920,1260,1520
+47260,51,700,23607,Newport News city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,700,23608,Newport News city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",750,780,900,1230,1480
+47260,51,710,23502,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",810,850,980,1340,1620
+47260,51,710,23503,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23504,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23505,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23507,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",750,790,910,1240,1500
+47260,51,710,23508,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23509,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",730,760,880,1200,1450
+47260,51,710,23510,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23511,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23513,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23517,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23518,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,710,23523,Norfolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+40060,51,730,23803,Petersburg city,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,730,23805,Petersburg city,"Richmond, VA MSA",690,750,830,1110,1300
+47260,51,735,23662,Poquoson city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",900,940,1090,1490,1800
+47260,51,740,23701,Portsmouth city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,740,23702,Portsmouth city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,740,23703,Portsmouth city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",820,860,990,1350,1630
+47260,51,740,23704,Portsmouth city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,740,23707,Portsmouth city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",750,790,910,1240,1500
+13980,51,750,24141,Radford city,"Blacksburg-Christiansburg-Radford, VA MSA",520,560,620,860,1090
+40060,51,760,23219,Richmond city,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,760,23220,Richmond city,"Richmond, VA MSA",750,810,900,1200,1410
+40060,51,760,23221,Richmond city,"Richmond, VA MSA",720,780,870,1160,1360
+40060,51,760,23222,Richmond city,"Richmond, VA MSA",710,770,860,1150,1350
+40060,51,760,23223,Richmond city,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,760,23224,Richmond city,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,760,23225,Richmond city,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,760,23226,Richmond city,"Richmond, VA MSA",900,970,1080,1440,1690
+40060,51,760,23227,Richmond city,"Richmond, VA MSA",670,730,810,1080,1270
+40060,51,760,23230,Richmond city,"Richmond, VA MSA",710,770,860,1150,1350
+40060,51,760,23231,Richmond city,"Richmond, VA MSA",680,740,820,1090,1280
+40060,51,760,23234,Richmond city,"Richmond, VA MSA",710,760,850,1130,1330
+40060,51,760,23235,Richmond city,"Richmond, VA MSA",880,950,1060,1420,1660
+40220,51,770,24011,Roanoke city,"Roanoke, VA MSA",500,530,690,870,950
+40220,51,770,24012,Roanoke city,"Roanoke, VA MSA",520,550,710,900,980
+40220,51,770,24013,Roanoke city,"Roanoke, VA MSA",500,530,690,870,950
+40220,51,770,24014,Roanoke city,"Roanoke, VA MSA",520,560,720,910,1000
+40220,51,770,24015,Roanoke city,"Roanoke, VA MSA",480,510,660,840,910
+40220,51,770,24016,Roanoke city,"Roanoke, VA MSA",470,500,650,820,900
+40220,51,770,24017,Roanoke city,"Roanoke, VA MSA",510,540,700,890,970
+40220,51,770,24018,Roanoke city,"Roanoke, VA MSA",580,620,800,1010,1110
+40220,51,770,24019,Roanoke city,"Roanoke, VA MSA",580,620,800,1010,1110
+40220,51,775,24153,Salem city,"Roanoke, VA MSA",540,570,740,940,1020
+47260,51,800,23432,Suffolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",730,760,880,1200,1450
+47260,51,800,23433,Suffolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",940,980,1130,1540,1860
+47260,51,800,23434,Suffolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,800,23435,Suffolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",1060,1110,1280,1750,2110
+47260,51,800,23436,Suffolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",730,760,880,1200,1450
+47260,51,800,23437,Suffolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",720,750,870,1190,1430
+47260,51,800,23438,Suffolk city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",730,760,880,1200,1450
+47260,51,810,23451,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",920,960,1110,1520,1830
+47260,51,810,23452,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",930,970,1120,1530,1850
+47260,51,810,23453,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",990,1030,1190,1630,1960
+47260,51,810,23454,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",900,940,1090,1490,1800
+47260,51,810,23455,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",930,970,1120,1530,1850
+47260,51,810,23456,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",1200,1250,1450,1980,2390
+47260,51,810,23457,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",950,980,1140,1560,1880
+47260,51,810,23459,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",950,980,1140,1560,1880
+47260,51,810,23462,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",930,970,1120,1530,1850
+47260,51,810,23464,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",970,1010,1170,1600,1930
+47260,51,810,23521,Virginia Beach city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",1200,1250,1450,1980,2390
+47260,51,830,23185,Williamsburg city,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",810,850,980,1340,1620
+49020,51,840,22601,Winchester city,"Winchester, VA-WV MSA",550,580,760,1050,1080
